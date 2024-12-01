@@ -1,20 +1,19 @@
 # Azure Brainwave
 
-GitHub license PRs Welcome Awesome
+![icegif-836](https://github.com/user-attachments/assets/0c1aff8c-d0b5-4755-b9b0-700ae64a59ee)
 
-Azure Animations
-Created with hearts by Microsoft Technical Trainers
+
+
 Created with ❤️ by Microsoft Technical Trainers
+
 About
-At Azure Animations, we believe that understanding complex cloud technologies doesn't have to be difficult or boring. That's why we've reimagined learning with a fresh approach—by turning intricate concepts into engaging, fun Animations. Our platform brings the worlds of Devevlopers 💻, DevSecOps - Security 🔐, Cloud ☁️, and AI 🤖 to life, making it easier for everyone, from beginners to experts, to grasp essential ideas and stay up-to-date with the latest in technology.
+Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
 
-Our Animations are crafted by Microsoft Technical Trainers 👨‍🏫👩‍🏫 , ensuring that the content is not only accurate but also creatively presented to hold your attention. Whether you're looking to demystify cloud architecture, explore security best practices, or dive into AI innovations, Azure Animations is here to help you visualize and understand the most important concepts in the tech world.
+We will also be ashring ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better
 
-Get ready to learn, engage, and have fun with Azure Animations where cloud technology comes to life! 🚀
 
-Don't forget to star (🌟) this repo to find it easier later.
 
-Content
+#Content
 
 
 Help Wanted 📒
@@ -22,7 +21,7 @@ Do you have suggestions for Azure Animations? The survey form is open 👉 here 
 Want to submit an idea or found spelling or code errors? 👉 Raise an issue or create a pull request.
 
 Special Thanks ❤️
-🎨 Animations Artists: Saki Homma, Kristen Chan, Masato Kikukawa
-✍️ Sketch illustrator: Payal Guruprasad
-🎞️ Broadcasters: Joel Ganesan, Vincent Kok, Neeraj Kumar
-🙏 Core Contributors: Nuttapong .
+🎨 Mindmap Artists:
+✍️ Fashcard Artists:
+🎞️ Broadcasters:
+🙏 Core Contributor:
