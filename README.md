@@ -38,7 +38,15 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 11 | Reading Text in Images and Documents       | https://enterprise.klaxoon.com/join/XBUHSJR |
 | Module 12 | Creating a Knowledge Mining Solution       | https://enterprise.klaxoon.com/join/W3G97AU |
 
-### AI-102 Mindmaps
+### Develop Generative AI solutions with Azure OpenAI Service (AI-050 )Mindmaps
+
+The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Service," teaches you how to leverage OpenAI's powerful language models within Azure. You'll learn to build natural language processing solutions, deploy the service, and use prompt engineering techniques to improve accuracy. The course also covers generating code and images, and using models to query your own data. It's designed for intermediate AI engineers looking to enhance their skills with Azure's AI capabilities.
+
+
+The mindmaps for all topics covered in the AI-050 training can be accessed from the link below
+
+https://enterprise.klaxoon.com/join/VRUGRJU
+![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
 
 
 ## Flashcards
