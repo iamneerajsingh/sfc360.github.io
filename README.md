@@ -9,7 +9,7 @@ Created with ❤️ by Microsoft Technical Trainers
 # About
 Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
 
-We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better
+We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better. 
 
 
 ## Mindmaps
@@ -44,14 +44,13 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 
 The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Service," teaches you how to leverage OpenAI's powerful language models within Azure. You'll learn to build natural language processing solutions, deploy the service, and use prompt engineering techniques to improve accuracy. The course also covers generating code and images, and using models to query your own data. It's designed for intermediate AI engineers looking to enhance their skills with Azure's AI capabilities.
 
-
 The mindmaps for all topics covered in the AI-050 training can be accessed from the link below
 
 https://enterprise.klaxoon.com/join/VRUGRJU
 
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
 
-### Security
+### Security, Compliance & Identity
 
 #### Microsoft Azure Security Technologies (AZ-500 )Mindmaps
 
@@ -61,6 +60,15 @@ https://go.klaxoon.com/DKHPWP2
 
 ![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
 
+
+
+### Modern WorkSpace / Copilot
+
+### Infrastructure
+
+### Digital Application Innovation
+
+### Business Applications
 
 ## Flashcards
 
