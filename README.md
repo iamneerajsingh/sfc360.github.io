@@ -13,7 +13,7 @@ We will also be ashring ways to create personalized visual tools backed by neuro
 
 
 
-#Content
+# Content
 This is just a placeholder
 
 Help Wanted 📒
