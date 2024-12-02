@@ -21,7 +21,7 @@ Do you have suggestions for Azure Animations? The survey form is open 👉 here 
 Want to submit an idea or found spelling or code errors? 👉 Raise an issue or create a pull request.
 
 Special Thanks ❤️
-🎨 Mindmap Artists:
-✍️ Fashcard Artists:
-🎞️ Broadcasters:
-🙏 Core Contributor:
+* **🎨 Mindmap Artists:
+* **✍️ Fashcard Artists:
+* **🎞️ Broadcasters:
+* **🙏 Core Contributor:
