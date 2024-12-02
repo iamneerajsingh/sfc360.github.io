@@ -14,7 +14,7 @@ We will also be sharing ways to create personalized visual tools backed by neuro
 
 ## Mindmaps
 
-### Data & Artificial Intelligence
+### 1.Data & Artificial Intelligence
 
 #### Azure AI Engineer (AI-102) Mindmaps
 
@@ -50,7 +50,7 @@ https://enterprise.klaxoon.com/join/VRUGRJU
 
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
 
-### Security, Compliance & Identity
+### 2.Security, Compliance & Identity
 
 #### Microsoft Azure Security Technologies (AZ-500) Mindmaps
 
@@ -64,9 +64,9 @@ https://go.klaxoon.com/DKHPWP2
 
 
 
-### Modern WorkSpace / Copilot
+### 3.Modern WorkSpace / Copilot
 
-### Infrastructure
+### 4.Infrastructure
 
 #### Microsoft Azure Administrator (AZ-104) Mindmaps
 The AZ-104 course, "Microsoft Azure Administrator," is designed for IT professionals who manage Azure subscriptions, secure identities, and administer infrastructure. It covers configuring virtual networks, managing network traffic, implementing storage solutions, and creating and scaling virtual machines. Additionally, the course includes deploying web apps and containers, backing up data, and monitoring solutions. This course is ideal for Azure Administrators aiming to enhance their skills in managing Azure environments.
@@ -97,9 +97,9 @@ https://go.klaxoon.com/3EBN3Y9
 ![AZ-1003 Secure storage for Azure Files and Azure Blob Storage - 2024-12-02](https://github.com/user-attachments/assets/fe4697cb-0ccc-4a36-af2d-3358a0a070f0)
 
 
-### Digital Application Innovation
+### 5.Digital Application Innovation
 
-### Business Applications
+### 6.Business Applications
 
 ## Flashcards
 
