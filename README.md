@@ -6,7 +6,7 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-About
+## About
 Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
 
 We will also be ashring ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better
@@ -14,7 +14,7 @@ We will also be ashring ways to create personalized visual tools backed by neuro
 
 
 #Content
-
+This is just a placeholder
 
 Help Wanted 📒
 Do you have suggestions for Azure Animations? The survey form is open 👉 here ℹ️.
