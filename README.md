@@ -19,14 +19,14 @@ We will also be ashring ways to create personalized visual tools backed by neuro
 ![MOD-1-Introduction to AI on Azure-v-1 - 2024-12-02 (1)](https://github.com/user-attachments/assets/2543bb37-02f9-4925-95fe-cf744ec65b77)
 
 
-# AI-102 Mindmaps
+### AI-102 Mindmaps
 
 | Module       | Link                                        |
 |--------------|---------------------------------------------|
-| Module 00:    | https://go.klaxoon.com/YTKH4GW             |             
-| Module 01    |  https://enterprise.klaxoon.com/join/FSKYJDU| 
+| Module 00:   | https://go.klaxoon.com/YTKH4GW              |             
+| Module 01    | https://enterprise.klaxoon.com/join/FSKYJDU | 
 | Module 02    | https://enterprise.klaxoon.com/join/ZTWZMDD | 
-| Module 03    |  https://enterprise.klaxoon.com/join/DRRYNRG| 
+| Module 03    | https://enterprise.klaxoon.com/join/DRRYNRG | 
 | Module 04    | https://enterprise.klaxoon.com/join/9JFAHRX | 
 | Module 05    | https://enterprise.klaxoon.com/join/GJEWN9R | 
 | Module 06    | https://enterprise.klaxoon.com/join/VCYPB6A | 
