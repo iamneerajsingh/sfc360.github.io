@@ -78,6 +78,16 @@ https://go.klaxoon.com/XYQEP4W
 ![AZ-104 Topics-July 28 2023_update_v-01 - 2024-12-02](https://github.com/user-attachments/assets/90da54dc-5e6d-4d96-a585-49c3fb6383e6)
 
 
+#### Configure secure access to your workloads using Azure networking (AZ-1002) Mindmaps
+The course "Configure Secure Access to Your Workloads Using Azure Networking" focuses on securing resources using Azure's virtual networking solutions. You'll learn to create and configure virtual networks, manage network routing, and set up DNS zones. The course also covers configuring network security groups (NSGs) and implementing Azure Firewall. This course is ideal for IT professionals looking to enhance their skills in securing Azure environments.
+
+The mindmaps for all topics covered in the AZ-1002 training can be accessed from the link below
+
+https://go.klaxoon.com/XAEYUQ6
+
+![AZ-1002-Mindmaps - 2024-12-02](https://github.com/user-attachments/assets/d00e630a-a99a-4470-bdcb-eb79950be357)
+
+
 ### Digital Application Innovation
 
 ### Business Applications
