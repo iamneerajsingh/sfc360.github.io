@@ -36,6 +36,37 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 11    | https://enterprise.klaxoon.com/join/XBUHSJR | 
 | Module 12    | https://enterprise.klaxoon.com/join/W3G97AU | 
 
+Module	Topic	Link
+Module 00	Syllabus	https://go.klaxoon.com/YTKH4GW
+Module 01	Introduction to AI on Azure	https://enterprise.klaxoon.com/join/FSKYJDU
+Module 02	Developing AI Apps with Cognitive Services	https://enterprise.klaxoon.com/join/ZTWZMDD
+Module 03	Getting Started with Natural Language Processing	https://enterprise.klaxoon.com/join/DRRYNRG
+Module 04	Building Speech-Enabled Applications	https://enterprise.klaxoon.com/join/9JFAHRX
+Module 05	Creating Language Understanding Solutions	https://enterprise.klaxoon.com/join/GJEWN9R
+Module 06	Building a Question Answering Solution	https://enterprise.klaxoon.com/join/VCYPB6A
+Module 07	Conversational AI and the Azure Bot Service	https://enterprise.klaxoon.com/join/Z58AXRJ
+Module 08	Getting Started with Computer Vision	https://enterprise.klaxoon.com/join/QPV59HC
+Module 09	Developing Custom Vision Solutions	https://go.klaxoon.com/UXM4HX2
+Module 10	Detecting, Analyzing, and Recognizing Faces	https://enterprise.klaxoon.com/join/HUEUST6
+Module 11	Reading Text in Images and Documents	https://enterprise.klaxoon.com/join/XBUHSJR
+Module 12	Creating a Knowledge Mining Solution	https://enterprise.klaxoon.com/join/W3G97AU
+
+| Module    | Topic                                      | Link                                              |
+|-----------|--------------------------------------------|---------------------------------------------------|
+| Module 00 | Syllabus                                   | https://go.klaxoon.com/YTKH4GW |
+| Module 01 | Introduction to AI on Azure                | https://enterprise.klaxoon.com/join/FSKYJDU |
+| Module 02 | Developing AI Apps with Cognitive Services | https://enterprise.klaxoon.com/join/ZTWZMDD |
+| Module 03 | Getting Started with Natural Language Processing | https://enterprise.klaxoon.com/join/DRRYNRG |
+| Module 04 | Building Speech-Enabled Applications       | https://enterprise.klaxoon.com/join/9JFAHRX |
+| Module 05 | Creating Language Understanding Solutions  | https://enterprise.klaxoon.com/join/GJEWN9R |
+| Module 06 | Building a Question Answering Solution     | https://enterprise.klaxoon.com/join/VCYPB6A |
+| Module 07 | Conversational AI and the Azure Bot Service | https://enterprise.klaxoon.com/join/Z58AXRJ |
+| Module 08 | Getting Started with Computer Vision       | https://enterprise.klaxoon.com/join/QPV59HC |
+| Module 09 | Developing Custom Vision Solutions         | https://go.klaxoon.com/UXM4HX2 |
+| Module 10 | Detecting, Analyzing, and Recognizing Faces | https://enterprise.klaxoon.com/join/HUEUST6 |
+| Module 11 | Reading Text in Images and Documents       | https://enterprise.klaxoon.com/join/XBUHSJR |
+| Module 12 | Creating a Knowledge Mining Solution       | https://enterprise.klaxoon.com/join/W3G97AU |
+
 ### AI-102 Mindmaps
 
 
