@@ -46,6 +46,7 @@ The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Servic
 The mindmaps for all topics covered in the AI-050 training can be accessed from the link below
 
 https://enterprise.klaxoon.com/join/VRUGRJU
+
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
 
 
