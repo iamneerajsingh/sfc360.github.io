@@ -23,7 +23,7 @@ We will also be ashring ways to create personalized visual tools backed by neuro
 
 | Module       | Link                                        |
 |--------------|---------------------------------------------|
-| Module 00:   | https://go.klaxoon.com/YTKH4GW              |             
+| Module 00    | https://go.klaxoon.com/YTKH4GW              |             
 | Module 01    | https://enterprise.klaxoon.com/join/FSKYJDU | 
 | Module 02    | https://enterprise.klaxoon.com/join/ZTWZMDD | 
 | Module 03    | https://enterprise.klaxoon.com/join/DRRYNRG | 
