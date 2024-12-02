@@ -105,7 +105,7 @@ https://go.klaxoon.com/3EBN3Y9
 
 
 Help Wanted 📒
-Do you have suggestions for Azure Animations? The survey form is open 👉 here ℹ️.
+Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 here ℹ️.
 Want to submit an idea or found spelling or code errors? 👉 Raise an issue or create a pull request.
 
 Special Thanks ❤️
