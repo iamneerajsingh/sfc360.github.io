@@ -21,21 +21,21 @@ We will also be ashring ways to create personalized visual tools backed by neuro
 
 # AI-102 Mindmaps
 
-| Module       | Link                                                    |
-|--------------|---------------------------------------------------------|
-| Module 0:    | Syllabus  | https://go.klaxoon.com/YTKH4GW
-| Module 01    | Module 01 | https://enterprise.klaxoon.com/join/FSKYJDU 
-| Module 02    | Module 02 | https://enterprise.klaxoon.com/join/ZTWZMDD
-| Module 03    | Module 03 | https://enterprise.klaxoon.com/join/DRRYNRG
-| Module 04    | Module 04 | https://enterprise.klaxoon.com/join/9JFAHRX
-| Module 05    | Module 05 | https://enterprise.klaxoon.com/join/GJEWN9R
-| Module 06    | Module 06 | https://enterprise.klaxoon.com/join/VCYPB6A
-| Module 07    | Module 07 | https://enterprise.klaxoon.com/join/Z58AXRJ
-| Module 08    | Module 08 | https://enterprise.klaxoon.com/join/QPV59HC
-| Module 09    | Module 09 | https://go.klaxoon.com/UXM4HX2
-| Module 10    | Module 10 | https://enterprise.klaxoon.com/join/HUEUST6
-| Module 11    | Module 11 | https://enterprise.klaxoon.com/join/XBUHSJR
-| Module 12    | Module 12 | https://enterprise.klaxoon.com/join/W3G97AU
+| Module       | Link                                        |
+|--------------|---------------------------------------------|
+| Module 00:    | https://go.klaxoon.com/YTKH4GW             |             
+| Module 01    |  https://enterprise.klaxoon.com/join/FSKYJDU| 
+| Module 02    | https://enterprise.klaxoon.com/join/ZTWZMDD | 
+| Module 03    |  https://enterprise.klaxoon.com/join/DRRYNRG| 
+| Module 04    | https://enterprise.klaxoon.com/join/9JFAHRX | 
+| Module 05    | https://enterprise.klaxoon.com/join/GJEWN9R | 
+| Module 06    | https://enterprise.klaxoon.com/join/VCYPB6A | 
+| Module 07    | https://enterprise.klaxoon.com/join/Z58AXRJ | 
+| Module 08    | https://enterprise.klaxoon.com/join/QPV59HC | 
+| Module 09    | https://go.klaxoon.com/UXM4HX2              | 
+| Module 10    | https://enterprise.klaxoon.com/join/HUEUST6 | 
+| Module 11    | https://enterprise.klaxoon.com/join/XBUHSJR | 
+| Module 12    | https://enterprise.klaxoon.com/join/W3G97AU | 
 
 
 ## Flashcards
