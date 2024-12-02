@@ -40,7 +40,7 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 11 | Reading Text in Images and Documents       | https://enterprise.klaxoon.com/join/XBUHSJR |
 | Module 12 | Creating a Knowledge Mining Solution       | https://enterprise.klaxoon.com/join/W3G97AU |
 
-#### Develop Generative AI solutions with Azure OpenAI Service (AI-050 )Mindmaps
+#### Develop Generative AI solutions with Azure OpenAI Service (AI-050) Mindmaps
 
 The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Service," teaches you how to leverage OpenAI's powerful language models within Azure. You'll learn to build natural language processing solutions, deploy the service, and use prompt engineering techniques to improve accuracy. The course also covers generating code and images, and using models to query your own data. It's designed for intermediate AI engineers looking to enhance their skills with Azure's AI capabilities.
 
@@ -52,7 +52,7 @@ https://enterprise.klaxoon.com/join/VRUGRJU
 
 ### Security, Compliance & Identity
 
-#### Microsoft Azure Security Technologies (AZ-500 )Mindmaps
+#### Microsoft Azure Security Technologies (AZ-500) Mindmaps
 
 The AZ-500 course, "Microsoft Azure Security Technologies," equips IT security professionals with the skills to implement security controls, maintain an organization's security posture, and identify and remediate vulnerabilities. It covers identity and access management, platform protection, data and application security, and security operations. This course is ideal for Azure Security Engineers aiming to enhance their expertise in securing Azure environments
 
