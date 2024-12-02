@@ -9,12 +9,13 @@ Created with ❤️ by Microsoft Technical Trainers
 # About
 Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
 
-We will also be ashring ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better
+We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better
 
 
 ## Mindmaps
 
 ### AI-102 Mindmaps
+The mindmaps for all topics covered in the AI-102 exam can be accessed from the table below. Heres an example of one of the mindmaps.
 
 ![MOD-1-Introduction to AI on Azure-v-1 - 2024-12-02 (1)](https://github.com/user-attachments/assets/2543bb37-02f9-4925-95fe-cf744ec65b77)
 
