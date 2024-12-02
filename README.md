@@ -14,7 +14,9 @@ We will also be sharing ways to create personalized visual tools backed by neuro
 
 ## Mindmaps
 
-### Azure AI Engineer (AI-102) Mindmaps
+### Data & Artificial Intelligence
+
+#### Azure AI Engineer (AI-102) Mindmaps
 
 The AI-102: Azure AI Engineer Associate Exam is a crucial certification for professionals aiming to demonstrate their expertise in designing and implementing AI solutions using Microsoft Azure. This certification not only validates your skills but also enhances your career prospects in the rapidly evolving field of artificial intelligence.
 
@@ -38,7 +40,7 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 11 | Reading Text in Images and Documents       | https://enterprise.klaxoon.com/join/XBUHSJR |
 | Module 12 | Creating a Knowledge Mining Solution       | https://enterprise.klaxoon.com/join/W3G97AU |
 
-### Develop Generative AI solutions with Azure OpenAI Service (AI-050 )Mindmaps
+#### Develop Generative AI solutions with Azure OpenAI Service (AI-050 )Mindmaps
 
 The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Service," teaches you how to leverage OpenAI's powerful language models within Azure. You'll learn to build natural language processing solutions, deploy the service, and use prompt engineering techniques to improve accuracy. The course also covers generating code and images, and using models to query your own data. It's designed for intermediate AI engineers looking to enhance their skills with Azure's AI capabilities.
 
@@ -48,6 +50,19 @@ The mindmaps for all topics covered in the AI-050 training can be accessed from 
 https://enterprise.klaxoon.com/join/VRUGRJU
 
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
+
+### Security
+
+#### Microsoft Azure Security Technologies (AZ-500 )Mindmaps
+
+The AZ-500 course, "Microsoft Azure Security Technologies," equips IT security professionals with the skills to implement security controls, maintain an organization's security posture, and identify and remediate vulnerabilities. It covers identity and access management, platform protection, data and application security, and security operations. This course is ideal for Azure Security Engineers aiming to enhance their expertise in securing Azure environments
+
+https://go.klaxoon.com/DKHPWP2
+
+![image](https://github.com/user-attachments/assets/de794a5b-1b81-4a62-8e18-bf7436e23ab1)
+
+
+![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
 
 
 ## Flashcards
