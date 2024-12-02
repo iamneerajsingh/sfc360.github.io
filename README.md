@@ -59,9 +59,6 @@ The AZ-500 course, "Microsoft Azure Security Technologies," equips IT security p
 
 https://go.klaxoon.com/DKHPWP2
 
-![image](https://github.com/user-attachments/assets/de794a5b-1b81-4a62-8e18-bf7436e23ab1)
-
-
 ![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
 
 
