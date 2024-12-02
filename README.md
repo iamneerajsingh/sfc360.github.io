@@ -15,6 +15,32 @@ We will also be sharing ways to create personalized visual tools backed by neuro
 ## Mindmaps
 
 ### Azure AI Engineer (AI-102) Mindmaps
+
+The AI-102: Azure AI Engineer Associate Exam is a crucial certification for professionals aiming to demonstrate their expertise in designing and implementing AI solutions using Microsoft Azure. This certification not only validates your skills but also enhances your career prospects in the rapidly evolving field of artificial intelligence.
+
+About the exam
+As a Microsoft Azure AI engineer, you build, manage, and deploy AI solutions that leverage Azure AI.
+
+Your responsibilities include participating in all phases of AI solutions development, including:
+
+Requirements definition and design
+Development
+Deployment
+Integration
+Maintenance
+Performance tuning
+Monitoring
+
+You work with solution architects to translate their vision. You also work with data scientists, data engineers, Internet of Things (IoT) specialists, infrastructure administrators, and other software developers to:
+
+Build complete and secure end-to-end AI solutions.
+Integrate AI capabilities in other applications and solutions.
+
+As an Azure AI engineer, you have experience developing solutions that use languages such as:
+
+Python
+C#
+
 The mindmaps for all topics covered in the AI-102 exam can be accessed from the table below. Heres an example of one of the mindmaps.
 
 ![MOD-1-Introduction to AI on Azure-v-1 - 2024-12-02 (1)](https://github.com/user-attachments/assets/2543bb37-02f9-4925-95fe-cf744ec65b77)
