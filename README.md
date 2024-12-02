@@ -87,6 +87,15 @@ https://go.klaxoon.com/XAEYUQ6
 
 ![AZ-1002-Mindmaps - 2024-12-02](https://github.com/user-attachments/assets/d00e630a-a99a-4470-bdcb-eb79950be357)
 
+#### Secure storage for Azure Files and Azure Blob Storage (AZ-1003) Mindmaps
+The AZ-1003 course, "Secure Storage for Azure Files and Azure Blob Storage," teaches you how to configure secure and scalable storage solutions for Azure applications. You'll learn to create and manage storage accounts, configure Blob Storage and Azure Files, and implement encryption and access controls. The course also covers networking configurations to enhance security. This course is ideal for IT professionals looking to secure their data in the cloud using Azure's storage services.
+
+The mindmaps for all topics covered in the AZ-1003 training can be accessed from the link below
+
+https://go.klaxoon.com/3EBN3Y9
+
+![AZ-1003 Secure storage for Azure Files and Azure Blob Storage - 2024-12-02](https://github.com/user-attachments/assets/fe4697cb-0ccc-4a36-af2d-3358a0a070f0)
+
 
 ### Digital Application Innovation
 
