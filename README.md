@@ -56,6 +56,8 @@ https://enterprise.klaxoon.com/join/VRUGRJU
 
 The AZ-500 course, "Microsoft Azure Security Technologies," equips IT security professionals with the skills to implement security controls, maintain an organization's security posture, and identify and remediate vulnerabilities. It covers identity and access management, platform protection, data and application security, and security operations. This course is ideal for Azure Security Engineers aiming to enhance their expertise in securing Azure environments
 
+The mindmaps for all topics covered in the AZ-500 training can be accessed from the link below
+
 https://go.klaxoon.com/DKHPWP2
 
 ![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
@@ -65,6 +67,16 @@ https://go.klaxoon.com/DKHPWP2
 ### Modern WorkSpace / Copilot
 
 ### Infrastructure
+
+#### Microsoft Azure Administrator (AZ-104) Mindmaps
+The AZ-104 course, "Microsoft Azure Administrator," is designed for IT professionals who manage Azure subscriptions, secure identities, and administer infrastructure. It covers configuring virtual networks, managing network traffic, implementing storage solutions, and creating and scaling virtual machines. Additionally, the course includes deploying web apps and containers, backing up data, and monitoring solutions. This course is ideal for Azure Administrators aiming to enhance their skills in managing Azure environments.
+
+The mindmaps for all topics covered in the AZ-104 training can be accessed from the link below
+
+https://go.klaxoon.com/XYQEP4W
+
+![AZ-104 Topics-July 28 2023_update_v-01 - 2024-12-02](https://github.com/user-attachments/assets/90da54dc-5e6d-4d96-a585-49c3fb6383e6)
+
 
 ### Digital Application Innovation
 
