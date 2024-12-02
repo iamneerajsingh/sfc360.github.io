@@ -14,13 +14,11 @@ We will also be sharing ways to create personalized visual tools backed by neuro
 
 ## Mindmaps
 
-### AI-102 Mindmaps
+### Azure AI Engineer (AI-102) Mindmaps
 The mindmaps for all topics covered in the AI-102 exam can be accessed from the table below. Heres an example of one of the mindmaps.
 
 ![MOD-1-Introduction to AI on Azure-v-1 - 2024-12-02 (1)](https://github.com/user-attachments/assets/2543bb37-02f9-4925-95fe-cf744ec65b77)
 
-
-### AI-102 Mindmaps
 
 | Module       | Link                                        |
 |--------------|---------------------------------------------|
@@ -37,6 +35,8 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 10    | https://enterprise.klaxoon.com/join/HUEUST6 | 
 | Module 11    | https://enterprise.klaxoon.com/join/XBUHSJR | 
 | Module 12    | https://enterprise.klaxoon.com/join/W3G97AU | 
+
+### AI-102 Mindmaps
 
 
 ## Flashcards
