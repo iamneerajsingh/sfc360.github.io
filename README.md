@@ -102,6 +102,8 @@ https://go.klaxoon.com/3EBN3Y9
 
 ## Flashcards
 
+## 1. Security, Compliance & Identity
+
 #### Microsoft Identity and Access Administrator (SC-300) Flashcards
 
 The SC-300 course, Microsoft Identity and Access Administrator, teaches you to design, implement, and manage identity and access solutions using Microsoft Entra ID. You'll learn to provide secure authentication and authorization access to enterprise applications, ensuring seamless user experiences. The course covers identity governance, hybrid identity solutions, and troubleshooting techniques. Ideal for those aiming to specialize in identity and access management
