@@ -1,7 +1,7 @@
 # Azure Brainwave
 
-![icegif-836](https://github.com/user-attachments/assets/0c1aff8c-d0b5-4755-b9b0-700ae64a59ee)
 
+![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
 
 
 Created with ❤️ by Microsoft Technical Trainers
