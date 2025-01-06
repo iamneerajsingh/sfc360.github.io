@@ -109,6 +109,17 @@ https://go.klaxoon.com/3EBN3Y9
 
 ### 6. Business Applications
 
+#### Power BI Data Analyst Associate (PL-300) Mindmaps
+
+The PL-300 course, "Microsoft Power BI Data Analyst," focuses on equipping data professionals with the skills to model, visualize, and analyze data using Power BI. It covers accessing and processing data from various sources, creating data models, and producing actionable insights through interactive reports and dashboards. This course is ideal for those aiming to enhance their data analysis capabilities and deliver business value through data-driven decision-making.
+
+The mindmaps for all topics covered in the PL-300 training can be accessed from the link below
+
+3 day course Mindmaps
+https://go.klaxoon.com/3C8VQWV
+
+https://go.klaxoon.com/RDH2GTX
+
 ## Flashcards
 
 ## 1. Security, Compliance & Identity
