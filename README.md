@@ -50,6 +50,14 @@ https://enterprise.klaxoon.com/join/VRUGRJU
 
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
 
+
+#### Azure Data Scientist Associate (DP-100) Mindmaps
+
+The DP-100 course, "Designing and Implementing a Data Science Solution on Azure," equips data scientists with the skills to manage data ingestion, preparation, model training, deployment, and monitoring using Azure Machine Learning. It leverages Python and popular machine learning frameworks like Scikit-Learn, PyTorch, and TensorFlow. This course is ideal for those looking to operate machine learning solutions at cloud scale.
+
+The mindmaps for all topics covered in the DP-100 training can be accessed from the link below
+https://go.klaxoon.com/NPDRNE8
+
 ### 2. Security, Compliance & Identity
 
 #### Microsoft Azure Security Technologies (AZ-500) Mindmaps
