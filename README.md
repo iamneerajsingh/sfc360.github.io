@@ -116,9 +116,16 @@ The PL-300 course, "Microsoft Power BI Data Analyst," focuses on equipping data 
 The mindmaps for all topics covered in the PL-300 training can be accessed from the link below
 
 3 day course Mindmaps
+
 https://go.klaxoon.com/3C8VQWV
 
+![image](https://github.com/user-attachments/assets/e5e1922b-c6c8-4078-9dfb-64a30c5423e0)
+
+
 https://go.klaxoon.com/RDH2GTX
+
+![image](https://github.com/user-attachments/assets/7ee459da-24a8-4cf2-bd16-4502a1851ccd)
+
 
 ## Flashcards
 
