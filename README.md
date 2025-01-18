@@ -22,7 +22,8 @@ The AI-102: Azure AI Engineer Associate Exam is a crucial certification for prof
 
 The mindmaps for all topics covered in the AI-102 exam can be accessed from the table below. Heres an example of one of the mindmaps.
 
-![MOD-1-Introduction to AI on Azure-v-1 - 2024-12-02 (1)](https://github.com/user-attachments/assets/2543bb37-02f9-4925-95fe-cf744ec65b77)
+![AI-102 Mindmap](https://github.com/user-attachments/assets/ee174cb6-056b-4bcd-8acc-289f402dfc68)
+
 
 | Module    | Topic                                      | Link                                              |
 |-----------|--------------------------------------------|---------------------------------------------------|
