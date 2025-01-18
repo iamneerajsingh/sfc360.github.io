@@ -214,6 +214,6 @@ Want to submit an idea or found spelling or code errors? 👉 Raise an issue or 
 
 Special Thanks ❤️
 * **🎨 Mindmap Artists:
-* **✍️ Fashcard Artists:
+* **✍️ Flashcard Artists:
 * **🎞️ Broadcasters:
 * **🙏 Core Contributor:
