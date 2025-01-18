@@ -216,9 +216,7 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 ### 6. Business Applications
 
 
-Help Wanted 📒
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://forms.office.com/r/vYBHeSiAnn)ℹ️.
-Want to submit an idea or found spelling or code errors? 👉 Raise an issue or create a pull request.
 
 Special Thanks ❤️
 * **🎨 Mindmap Artists:
