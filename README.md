@@ -41,6 +41,7 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 | Module 11 | Reading Text in Images and Documents       | https://aka.ms/AI-102MOD11 |
 | Module 12 | Creating a Knowledge Mining Solution       | https://aka.ms/AI-102MOD12 |
 
+
 #### Develop Generative AI solutions with Azure OpenAI Service (AI-050) Mindmaps
 
 The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Service," teaches you how to leverage OpenAI's powerful language models within Azure. You'll learn to build natural language processing solutions, deploy the service, and use prompt engineering techniques to improve accuracy. The course also covers generating code and images, and using models to query your own data. It's designed for intermediate AI engineers looking to enhance their skills with Azure's AI capabilities.
@@ -121,14 +122,14 @@ The mindmaps for all topics covered in the AZ-305 training can be accessed from 
 ![image](https://github.com/user-attachments/assets/507d0ca2-a8c8-4d71-95e5-43c9b7ccec6a)
 
 
-| Module    | Topic                                      | Link                                              |
-| Module Number | Module Title                                    | Link                                    |
-|---------------|-------------------------------------------------|-----------------------------------------|
+| Module        | Topic                                           | Link                       |
+| Module Number | Module Title                                    | Link                       |
+|---------------|-------------------------------------------------|----------------------------|
 | Module 01     | Introduction to AI on Azure                     | https://aka.ms/AI-102-FCM1 |
 | Module 02     | Developing AI Apps with Cognitive Services      | https://aka.ms/AI-102-FCM2 |
-| Module 03     | Getting Started with Natural Language Processing| https://aka.ms/AI-102FCM3   |
-| Module 04     | Building Speech-Enabled Applications            | https://aka.ms/AI-102FCM4   |
-| Module 05     | Creating Language Understanding Solutions       | https://aka.ms/AI-102FCM5   |
+| Module 03     | Getting Started with Natural Language Processing| https://aka.ms/AI-102FCM3  |
+| Module 04     | Building Speech-Enabled Applications            | https://aka.ms/AI-102FCM4  |
+| Module 05     | Creating Language Understanding Solutions       | https://aka.ms/AI-102FCM5  |
 | Module 06     | Building a Question Answering Solution          | https://aka.ms/AI-102-FCM6 |
 | Module 07     | Conversational AI and the Azure Bot Service     | https://aka.ms/AI-102-FCM7 |
 | Module 08     | Getting Started with Computer Vision            | https://aka.ms/AI-102_FCM8 |
@@ -136,6 +137,7 @@ The mindmaps for all topics covered in the AZ-305 training can be accessed from 
 | Module 10     | Detecting, Analyzing, and Recognizing Faces     | https://aka.ms/AI-102-FCM10|
 | Module 11     | Reading Text in Images and Documents            | https://aka.ms/AI-102-FCM11|
 | Module 12     | Creating a Knowledge Mining Solution            | https://aka.ms/AI-102-FCM12|
+
 
 ### 5. Digital Application Innovation
 
@@ -168,7 +170,7 @@ The AI-102: Azure AI Engineer Associate Exam is a crucial certification for prof
 
 The flashcards for all topics covered in the AI-102 training can be accessed from below table
 
- Module Number | Module Title                                    | Link                                    |
+| Module Number | Module Title                                    | Link                                    |
 |---------------|-------------------------------------------------|-----------------------------------------|
 | Module 01     | Introduction to AI on Azure                     | https://aka.ms/AI-102-FCM1 |
 | Module 02     | Developing AI Apps with Cognitive Services      | https://aka.ms/AI-102-FCM2 |
