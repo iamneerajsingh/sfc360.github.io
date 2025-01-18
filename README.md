@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0db15b60-9082-4c96-a76e-6b39fd251808)# Azure Brainwave
+![image](https://github.com/user-attachments/assets/821cbd52-c1c6-44f3-9da4-3e05bb40dbbb)![image](https://github.com/user-attachments/assets/0db15b60-9082-4c96-a76e-6b39fd251808)# Azure Brainwave
 
 
 ![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
@@ -46,10 +46,7 @@ The AI-050 course, "Develop Generative AI Solutions with the Azure OpenAI Servic
 
 The mindmaps for all topics covered in the AI-050 training can be accessed from the link below
 
-https://enterprise.klaxoon.com/join/VRUGRJU
-
 https://aka.ms/AI-050
-![image](https://github.com/user-attachments/assets/733cab07-dd52-4f6b-9b60-26b8c088b814)
 
 
 ![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
@@ -61,7 +58,7 @@ The DP-100 course, "Designing and Implementing a Data Science Solution on Azure,
 
 The mindmaps for all topics covered in the DP-100 training can be accessed from the link below
 
-https://go.klaxoon.com/NPDRNE8
+https://aka.ms/DP-100-BW
 
 ### 2. Security, Compliance & Identity
 
