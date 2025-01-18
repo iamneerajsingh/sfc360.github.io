@@ -135,7 +135,12 @@ https://aka.ms/PL-300-BW-02
 
 ## Flashcards
 
-## 1. Security, Compliance & Identity
+
+### 1. Data & Artificial Intelligence
+
+
+
+### 2. Security, Compliance & Identity
 
 #### Microsoft Identity and Access Administrator (SC-300) Flashcards
 
@@ -150,6 +155,15 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 | 3      | Implement Access Management for Apps                    | https://aka.ms/SC-300FCM3 |
 | 4      | Plan and Implement an Identity Governance Strategy      | https://aka.ms/SC-300FCM4 |
 | 5      | Implement Access Management for Azure Resources         | https://aka.ms/SC-300FCM5 |
+
+### 3. Modern WorkSpace / Copilot
+
+### 4. Infrastructure
+
+### 5. Digital Application Innovation
+
+### 6. Business Applications
+
 
 Help Wanted 📒
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 here ℹ️.
