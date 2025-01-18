@@ -143,14 +143,13 @@ The SC-300 course, Microsoft Identity and Access Administrator, teaches you to d
 
 The flashcards for all topics covered in the SC-300 training can be accessed from below table
 
-| Modules                                                   | Flashcards Links       |
-|-----------------------------------------------------------|------------------------|
-| 1. Implement an Identity Management Solution           | [Flashcards activity](https://activelearning.ppe.cloud.microsoft.com/app/Flashcards/0d72a2f2-533e-45cc-ac98-28190558d0ec)    |
-| 2. Implement an Authentication and Access Management Solution | [Flashcards activity](https://activelearning.ppe.cloud.microsoft.com/app/Flashcards/6b3adb39-ddc7-4bf1-9c85-619e553df883)    |
-| 3. Implement Access Management for Apps                | [Flashcards activity](https://activelearning.ppe.cloud.microsoft.com/app/Flashcards/d944ae9d-b49d-4e87-984f-53bb956d57b4)    |
-| 4. Plan and Implement an Identity Governance Strategy  | [Flashcards activity ](https://activelearning.ppe.cloud.microsoft.com/app/Flashcards/10e8ab59-ae94-4d8d-b26c-68837ca94eb9)   |
-| 5. Implement Access Management for Azure Resources     | [Flashcards activity ](https://activelearning.ppe.cloud.microsoft.com/app/Flashcards/d3c6e42c-af25-4aa8-993a-b7ca484b7937)   |
-
+| Module | Topic                                                   | Link                                              |
+|--------|---------------------------------------------------------|---------------------------------------------------|
+| 1      | Implement an Identity Management Solution               | https://aka.ms/SC-300-FCM01 |
+| 2      | Implement an Authentication and Access Management Solution | https://aka.ms/SC-300FCM02 |
+| 3      | Implement Access Management for Apps                    | https://aka.ms/SC-300FCM3 |
+| 4      | Plan and Implement an Identity Governance Strategy      | https://aka.ms/SC-300FCM4 |
+| 5      | Implement Access Management for Azure Resources         | https://aka.ms/SC-300FCM5 |
 
 Help Wanted 📒
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 here ℹ️.
