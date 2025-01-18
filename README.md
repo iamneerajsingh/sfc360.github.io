@@ -109,6 +109,25 @@ https://aka.ms/AZ-1003
 
 ![AZ-1003 Secure storage for Azure Files and Azure Blob Storage - 2024-12-02](https://github.com/user-attachments/assets/fe4697cb-0ccc-4a36-af2d-3358a0a070f0)
 
+#### Designing Microsoft Azure Infrastructure Solutions (AZ-305) Mindmaps
+The AZ-305 course, "Designing Microsoft Azure Infrastructure Solutions," equips you with the skills to design and implement secure, scalable, and reliable solutions on Azure. You'll learn about governance, compute, storage, data integration, app architecture, and more. This course is ideal for IT professionals aiming to become Azure Solutions Architects. By the end, you'll be prepared to tackle real-world challenges and optimize Azure infrastructure for your organization.
+
+The mindmaps for all topics covered in the AZ-305 training can be accessed from the link below
+
+| Module    | Topic                                      | Link                                              |
+|-----------|--------------------------------------------|---------------------------------------------------|
+| Module 01 | Governance                                 | https://aka.ms/AZ-305-M1 |
+| Module 01 | Governance                                 | https://aka.ms/AZ-305-M1.1 |
+| Module 02 | Compute                                    | https://aka.ms/AZ-305-M2 |
+| Module 03 | Storage (non-relational)                   | https://aka.ms/AZ-305-M3 |
+| Module 04 | Storage (relational)                       | https://aka.ms/AZ-305-M4 |
+| Module 05 | Data Integration                           | https://aka.ms/AZ-305-M5 |
+| Module 06 | App Architecture                           | https://aka.ms/AZ-305-M6 |
+| Module 07 | Authentication and Authorization           | https://aka.ms/AZ-305-M7 |
+| Module 08 | Monitoring                                 | https://aka.ms/AZ-305-M8 |
+| Module 09 | Networks                                   | https://aka.ms/AZ-305-M9 |
+| Module 10 | BCDR                                       | https://aka.ms/AZ-305-M10 |
+| Module 11 | Migrations                                 | https://aka.ms/AZ-305-M11 |
 
 ### 5. Digital Application Innovation
 
