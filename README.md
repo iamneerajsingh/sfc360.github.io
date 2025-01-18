@@ -90,7 +90,7 @@ The mindmaps for all topics covered in the AZ-104 training can be accessed from 
 https://aka.ms/AZ-104-BW
 
 
-![AZ-104 Topics-July 28 2023_update_v-01 - 2024-12-02](https://github.com/user-attachments/assets/90da54dc-5e6d-4d96-a585-49c3fb6383e6)
+![AZ-104 Mindmaps](https://github.com/user-attachments/assets/82ec0662-5a7d-4ee9-b984-3bc5b3f4dcef)
 
 
 #### Configure secure access to your workloads using Azure networking (AZ-1002) Mindmaps
@@ -100,7 +100,8 @@ The mindmaps for all topics covered in the AZ-1002 training can be accessed from
 
 https://aka.ms/AZ-1002
 
-![AZ-1002-Mindmaps - 2024-12-02](https://github.com/user-attachments/assets/d00e630a-a99a-4470-bdcb-eb79950be357)
+![AZ-1002 Mindmaps](https://github.com/user-attachments/assets/f572c7df-b39b-4449-9992-aaefe8648748)
+
 
 #### Secure storage for Azure Files and Azure Blob Storage (AZ-1003) Mindmaps
 The AZ-1003 course, "Secure Storage for Azure Files and Azure Blob Storage," teaches you how to configure secure and scalable storage solutions for Azure applications. You'll learn to create and manage storage accounts, configure Blob Storage and Azure Files, and implement encryption and access controls. The course also covers networking configurations to enhance security. This course is ideal for IT professionals looking to secure their data in the cloud using Azure's storage services.
@@ -109,7 +110,7 @@ The mindmaps for all topics covered in the AZ-1003 training can be accessed from
 
 https://aka.ms/AZ-1003
 
-![AZ-1003 Secure storage for Azure Files and Azure Blob Storage - 2024-12-02](https://github.com/user-attachments/assets/fe4697cb-0ccc-4a36-af2d-3358a0a070f0)
+![AZ-1003 Mindmaps](https://github.com/user-attachments/assets/4027ee6f-1ca1-4f0b-a342-f213d21a9756)
 
 #### Designing Microsoft Azure Infrastructure Solutions (AZ-305) Mindmaps
 The AZ-305 course, "Designing Microsoft Azure Infrastructure Solutions," equips you with the skills to design and implement secure, scalable, and reliable solutions on Azure. You'll learn about governance, compute, storage, data integration, app architecture, and more. This course is ideal for IT professionals aiming to become Azure Solutions Architects. By the end, you'll be prepared to tackle real-world challenges and optimize Azure infrastructure for your organization.
@@ -149,12 +150,9 @@ The mindmaps for all topics covered in the PL-300 training can be accessed from 
 https://aka.ms/PL-300-BW-01
 
 
-![image](https://github.com/user-attachments/assets/e5e1922b-c6c8-4078-9dfb-64a30c5423e0)
-
-
 https://aka.ms/PL-300-BW-02
 
-![image](https://github.com/user-attachments/assets/7ee459da-24a8-4cf2-bd16-4502a1851ccd)
+![image](https://github.com/user-attachments/assets/13499bee-4922-498d-bf5b-951ee0f509ab)
 
 
 ## Flashcards
