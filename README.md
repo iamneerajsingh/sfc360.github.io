@@ -114,6 +114,9 @@ The AZ-305 course, "Designing Microsoft Azure Infrastructure Solutions," equips 
 
 The mindmaps for all topics covered in the AZ-305 training can be accessed from the link below
 
+![image](https://github.com/user-attachments/assets/507d0ca2-a8c8-4d71-95e5-43c9b7ccec6a)
+
+
 | Module    | Topic                                      | Link                                              |
 |-----------|--------------------------------------------|---------------------------------------------------|
 | Module 01 | Governance                                 | https://aka.ms/AZ-305-M1 |
