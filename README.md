@@ -182,6 +182,8 @@ The flashcards for all topics covered in the AI-102 training can be accessed fro
 | Module 11     | Reading Text in Images and Documents            | https://aka.ms/AI-102-FCM11|
 | Module 12     | Creating a Knowledge Mining Solution            | https://aka.ms/AI-102-FCM12|
 
+<a href="https://aka.ms/AI-102-FCM1">Introduction to AI on Azure</a>
+
 
 ### 2. Security, Compliance & Identity
 
