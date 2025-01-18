@@ -68,7 +68,7 @@ The AZ-500 course, "Microsoft Azure Security Technologies," equips IT security p
 
 The mindmaps for all topics covered in the AZ-500 training can be accessed from the link below
 
-https://go.klaxoon.com/DKHPWP2
+https://aka.ms/AZ-500-BW
 
 ![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
 
@@ -82,7 +82,8 @@ The AZ-104 course, "Microsoft Azure Administrator," is designed for IT professio
 
 The mindmaps for all topics covered in the AZ-104 training can be accessed from the link below
 
-https://go.klaxoon.com/XYQEP4W
+https://aka.ms/AZ-104-BW
+
 
 ![AZ-104 Topics-July 28 2023_update_v-01 - 2024-12-02](https://github.com/user-attachments/assets/90da54dc-5e6d-4d96-a585-49c3fb6383e6)
 
@@ -92,7 +93,7 @@ The course "Configure Secure Access to Your Workloads Using Azure Networking" fo
 
 The mindmaps for all topics covered in the AZ-1002 training can be accessed from the link below
 
-https://go.klaxoon.com/XAEYUQ6
+https://aka.ms/AZ-1002
 
 ![AZ-1002-Mindmaps - 2024-12-02](https://github.com/user-attachments/assets/d00e630a-a99a-4470-bdcb-eb79950be357)
 
@@ -101,7 +102,7 @@ The AZ-1003 course, "Secure Storage for Azure Files and Azure Blob Storage," tea
 
 The mindmaps for all topics covered in the AZ-1003 training can be accessed from the link below
 
-https://go.klaxoon.com/3EBN3Y9
+https://aka.ms/AZ-1003
 
 ![AZ-1003 Secure storage for Azure Files and Azure Blob Storage - 2024-12-02](https://github.com/user-attachments/assets/fe4697cb-0ccc-4a36-af2d-3358a0a070f0)
 
@@ -118,12 +119,13 @@ The mindmaps for all topics covered in the PL-300 training can be accessed from 
 
 3 day course Mindmaps
 
-https://go.klaxoon.com/3C8VQWV
+https://aka.ms/PL-300-BW-01
+
 
 ![image](https://github.com/user-attachments/assets/e5e1922b-c6c8-4078-9dfb-64a30c5423e0)
 
 
-https://go.klaxoon.com/RDH2GTX
+https://aka.ms/PL-300-BW-02
 
 ![image](https://github.com/user-attachments/assets/7ee459da-24a8-4cf2-bd16-4502a1851ccd)
 
