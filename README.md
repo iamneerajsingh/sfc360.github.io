@@ -50,7 +50,7 @@ The mindmaps for all topics covered in the AI-050 training can be accessed from 
 https://aka.ms/AI-050
 
 
-![AI-050 v1 Develop Generative AI Solutions with Azure OpenAI Service - 2024-12-02](https://github.com/user-attachments/assets/082ad343-6766-41e4-b3df-2b0c03ed8590)
+![AI-050 Mindmaps](https://github.com/user-attachments/assets/74de609f-ab19-4120-b0e8-dd79d3e95e60)
 
 
 #### Azure Data Scientist Associate (DP-100) Mindmaps
@@ -61,7 +61,8 @@ The mindmaps for all topics covered in the DP-100 training can be accessed from 
 
 https://aka.ms/DP-100-BW
 
-![image](https://github.com/user-attachments/assets/dad35337-36e9-4eb3-99af-543c29868828)
+
+![DP-100 Mindmaps](https://github.com/user-attachments/assets/52343e3c-b526-4453-8017-f1b073a35d24)
 
 
 ### 2. Security, Compliance & Identity
@@ -74,7 +75,7 @@ The mindmaps for all topics covered in the AZ-500 training can be accessed from 
 
 https://aka.ms/AZ-500-BW
 
-![AZ-500-All topics - 2024-12-02](https://github.com/user-attachments/assets/79e2bd67-4fd2-484e-be1c-6699035204f8)
+![AZ-500 Mindmaps](https://github.com/user-attachments/assets/f6135c76-655d-4260-b9ec-388227b27f9e)
 
 
 ### 3. Modern WorkSpace / Copilot
