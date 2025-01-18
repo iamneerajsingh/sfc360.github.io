@@ -161,6 +161,26 @@ https://aka.ms/PL-300-BW-02
 
 ### 1. Data & Artificial Intelligence
 
+#### Azure AI Engineer (AI-102) Mindmaps
+
+The AI-102: Azure AI Engineer Associate Exam is a crucial certification for professionals aiming to demonstrate their expertise in designing and implementing AI solutions using Microsoft Azure. This certification not only validates your skills but also enhances your career prospects in the rapidly evolving field of artificial intelligence.
+
+The flashcards for all topics covered in the AI-102 training can be accessed from below table
+
+ Module Number | Module Title                                    | Link                                    |
+|---------------|-------------------------------------------------|-----------------------------------------|
+| Module 01     | Introduction to AI on Azure                     | https://aka.ms/AI-102-FCM1 |
+| Module 02     | Developing AI Apps with Cognitive Services      | https://aka.ms/AI-102-FCM2 |
+| Module 03     | Getting Started with Natural Language Processing| https://aka.ms/AI-102FCM3   |
+| Module 04     | Building Speech-Enabled Applications            | https://aka.ms/AI-102FCM4   |
+| Module 05     | Creating Language Understanding Solutions       | https://aka.ms/AI-102FCM5   |
+| Module 06     | Building a Question Answering Solution          | https://aka.ms/AI-102-FCM6 |
+| Module 07     | Conversational AI and the Azure Bot Service     | https://aka.ms/AI-102-FCM7 |
+| Module 08     | Getting Started with Computer Vision            | https://aka.ms/AI-102_FCM8 |
+| Module 09     | Developing Custom Vision Solutions              | https://aka.ms/AI-102-FCM9 |
+| Module 10     | Detecting, Analyzing, and Recognizing Faces     | https://aka.ms/AI-102-FCM10|
+| Module 11     | Reading Text in Images and Documents            | https://aka.ms/AI-102-FCM11|
+| Module 12     | Creating a Knowledge Mining Solution            | https://aka.ms/AI-102-FCM12|
 
 
 ### 2. Security, Compliance & Identity
