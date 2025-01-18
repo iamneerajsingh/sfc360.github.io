@@ -60,6 +60,9 @@ The mindmaps for all topics covered in the DP-100 training can be accessed from 
 
 https://aka.ms/DP-100-BW
 
+![image](https://github.com/user-attachments/assets/dad35337-36e9-4eb3-99af-543c29868828)
+
+
 ### 2. Security, Compliance & Identity
 
 #### Microsoft Azure Security Technologies (AZ-500) Mindmaps
