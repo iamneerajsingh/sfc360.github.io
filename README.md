@@ -184,6 +184,8 @@ The flashcards for all topics covered in the AI-102 training can be accessed fro
 | Module 12     | Creating a Knowledge Mining Solution            | https://aka.ms/AI-102-FCM12|
 
 
+
+
 ![image](https://github.com/user-attachments/assets/d7852b66-abe0-4c9c-934a-5b95cf367b70)
 
 
