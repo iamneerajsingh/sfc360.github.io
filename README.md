@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/821cbd52-c1c6-44f3-9da4-3e05bb40dbbb)![image](https://github.com/user-attachments/assets/0db15b60-9082-4c96-a76e-6b39fd251808)# Azure Brainwave
+# Azure Brainwave
 
 
 ![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
