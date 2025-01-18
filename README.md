@@ -75,7 +75,8 @@ The mindmaps for all topics covered in the AZ-500 training can be accessed from 
 
 https://aka.ms/AZ-500-BW
 
-![AZ-500 Mindmaps](https://github.com/user-attachments/assets/f6135c76-655d-4260-b9ec-388227b27f9e)
+![AZ-500 Mindmaps](https://github.com/user-attachments/assets/f9e90161-7543-42cc-833a-671c603ffcea)
+
 
 
 ### 3. Modern WorkSpace / Copilot
