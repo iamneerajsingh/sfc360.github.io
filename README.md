@@ -140,6 +140,13 @@ The mindmaps for all topics covered in the AZ-305 training can be accessed from 
 
 ### 5. Digital Application Innovation
 
+#### Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK (AZ-2005) Mindmaps
+The AZ-2005 course, "Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK," teaches you how to build and enhance AI agents. You'll learn to create plugins, give your AI agent skills, and use intelligent planners. The course includes hands-on labs and a guided project to create an AI travel agent. It's ideal for Azure developers, AI engineers, and data scientists.
+
+![AZ-2005 Mindmaps](https://github.com/user-attachments/assets/2039187d-ac29-4ff4-851c-03d3f610b466)
+
+
+
 ### 6. Business Applications
 
 #### Power BI Data Analyst Associate (PL-300) Mindmaps
