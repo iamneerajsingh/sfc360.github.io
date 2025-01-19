@@ -122,21 +122,20 @@ The mindmaps for all topics covered in the AZ-305 training can be accessed from 
 ![image](https://github.com/user-attachments/assets/507d0ca2-a8c8-4d71-95e5-43c9b7ccec6a)
 
 
-| Module        | Topic                                           | Link                       |
-| Module Number | Module Title                                    | Link                       |
-|---------------|-------------------------------------------------|----------------------------|
-| Module 01     | Introduction to AI on Azure                     | https://aka.ms/AI-102-FCM1 |
-| Module 02     | Developing AI Apps with Cognitive Services      | https://aka.ms/AI-102-FCM2 |
-| Module 03     | Getting Started with Natural Language Processing| https://aka.ms/AI-102FCM3  |
-| Module 04     | Building Speech-Enabled Applications            | https://aka.ms/AI-102FCM4  |
-| Module 05     | Creating Language Understanding Solutions       | https://aka.ms/AI-102FCM5  |
-| Module 06     | Building a Question Answering Solution          | https://aka.ms/AI-102-FCM6 |
-| Module 07     | Conversational AI and the Azure Bot Service     | https://aka.ms/AI-102-FCM7 |
-| Module 08     | Getting Started with Computer Vision            | https://aka.ms/AI-102_FCM8 |
-| Module 09     | Developing Custom Vision Solutions              | https://aka.ms/AI-102-FCM9 |
-| Module 10     | Detecting, Analyzing, and Recognizing Faces     | https://aka.ms/AI-102-FCM10|
-| Module 11     | Reading Text in Images and Documents            | https://aka.ms/AI-102-FCM11|
-| Module 12     | Creating a Knowledge Mining Solution            | https://aka.ms/AI-102-FCM12|
+| Module   | Topic                          | Link                          |
+|----------|--------------------------------|-------------------------------|
+| Module-01| Governance                     | https://aka.ms/AZ-305-M1 |
+| Module-01| Governance                     | https://aka.ms/AZ-305-M1.1 |
+| Module-02| Compute                        | https://aka.ms/AZ-305-M2 |
+| Module-03| Storage (non-relational)*      | https://aka.ms/AZ-305-M3 |
+| Module-04| Storage (relational)*          | https://aka.ms/AZ-305-M4 |
+| Module-05| Data Integration               | https://aka.ms/AZ-305-M5 |
+| Module-06| App Architecture*              | https://aka.ms/AZ-305-M6 |
+| Module-07| Authentication and Authorization | https://aka.ms/AZ-305-M7 |
+| Module-08| Monitoring                     | https://aka.ms/AZ-305-M8 |
+| Module-09| Networks                       | https://aka.ms/AZ-305-M9 |
+| Module-10| BCDR                           | https://aka.ms/AZ-305-M10 |
+| Module-11| Migrations                     | https://aka.ms/AZ-305-M11 |
 
 
 ### 5. Digital Application Innovation
