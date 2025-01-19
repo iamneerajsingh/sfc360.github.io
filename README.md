@@ -222,6 +222,13 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 
 ### 5. Digital Application Innovation
 
+#### Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK (AZ-2005) Mindmaps
+The AZ-2005 course, "Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK," teaches you how to build and enhance AI agents. You'll learn to create plugins, give your AI agent skills, and use intelligent planners. The course includes hands-on labs and a guided project to create an AI travel agent. It's ideal for Azure developers, AI engineers, and data scientists.
+
+The Flashcards for all topics covered in the AZ-2005 training is below:
+
+https://aka.ms/AZ-2005-FCM1
+
 ### 6. Business Applications
 
 
