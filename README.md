@@ -239,3 +239,6 @@ Special Thanks ❤️
 * **✍️ Flashcard Artists:
 * **🎞️ Broadcasters:
 * **🙏 Core Contributor:
+
+![image](https://github.com/user-attachments/assets/9000a4ee-258f-4724-9efc-5dfc951a20f0)
+
