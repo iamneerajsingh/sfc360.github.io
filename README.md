@@ -1,4 +1,4 @@
-# Azure Brainwave
+![image](https://github.com/user-attachments/assets/b321823d-b304-43bc-8abb-46987549e38f)![image](https://github.com/user-attachments/assets/18c527f8-f8dc-4a2a-9821-b73e9c872950)![image](https://github.com/user-attachments/assets/a338501a-cb2d-41b2-9f88-d738c3852222)![image](https://github.com/user-attachments/assets/bf9f2dfc-1b2e-4b9c-915d-3a638debbcca)# Azure Brainwave
 
 
 ![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
@@ -235,9 +235,9 @@ https://aka.ms/AZ-2005-FCM1
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://forms.office.com/r/nKrwaXdpke)ℹ️.
 
 Special Thanks ❤️
-* **🎨 Mindmap Artists:
-* **✍️ Flashcard Artists:
-* **🎞️ Broadcasters:
-* **🙏 Core Contributor:
+* **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/)
+* **✍️ Flashcard Artists: [Ajay Lodha](https://www.linkedin.com/in/alodha100/), [Junwei Huang ](https://www.linkedin.com/in/wbpluto/)
+* **🎞️ Broadcasters:[Vincent Kok](https://www.linkedin.com/in/vincekok/), [Kristin Deokiesingh](https://www.linkedin.com/in/sineaddeokiesingh/)
+* **🙏 Core Contributor: [Neeraj Kumar](https://www.linkedin.com/in/neerajtrainer/)
 
 
