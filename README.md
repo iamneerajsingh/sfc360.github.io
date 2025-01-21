@@ -232,7 +232,7 @@ https://aka.ms/AZ-2005-FCM1
 ### 6. Business Applications
 
 
-Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://forms.office.com/r/vYBHeSiAnn)ℹ️.
+Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://forms.office.com/r/nKrwaXdpke)ℹ️.
 
 Special Thanks ❤️
 * **🎨 Mindmap Artists:
