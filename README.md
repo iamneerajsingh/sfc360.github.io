@@ -1,4 +1,4 @@
-![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
+![image](https://github.com/user-attachments/assets/913528c6-5b33-442f-b43c-14d8863621b9)![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
 
 
 Created with ❤️ by Microsoft Technical Trainers
@@ -69,6 +69,18 @@ The DP-600 course, "Microsoft Fabric Analytics Engineer," equips data profession
 https://aka.ms/DP-600-BW
 
 ![DP-600MM-2025-01-25-162603](https://github.com/user-attachments/assets/e11d0e90-5bad-4ed6-a024-3f5dde334c72)
+
+##### Data Engineering on Microsoft Azure (203) and Implementing a Data Analytics Solution with Azure Synapse Analytics (DP-3012) Mindmap
+
+The DP-203 course, "Data Engineering on Microsoft Azure," is designed for Azure Data Engineers. It covers data integration, transformation, and consolidation from various sources, building secure and compliant data processing pipelines, and designing data storage solutions. This course equips you with the skills to manage and analyze data using Azure services like Azure Data Factory, Azure Synapse Analytics, and Azure Databricks.
+
+The DP-3012 course, "Implementing a Data Analytics Solution with Azure Synapse Analytics," is an intermediate-level, single-day instructor-led course. It covers using SQL Dedicated and Serverless Spark Pools for data wrangling, Synapse Pipelines for data movement, and data analysis with Apache Spark. This course equips you with the skills to effectively manage and analyze data using Azure Synapse Analytics.
+
+Here is the combined mindmap for these courses
+
+https://aka.ms/DP-203-BW
+
+<img width="664" alt="DP-203" src="https://github.com/user-attachments/assets/09641974-5707-40d2-af21-a5d4b5e0217f" />
 
 
 ### 2. Security, Compliance & Identity
