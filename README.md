@@ -259,6 +259,6 @@ Special Thanks ❤️
 * **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/)
 * **✍️ Flashcard Artists: [Ajay Lodha](https://www.linkedin.com/in/alodha100/), [Junwei Huang ](https://www.linkedin.com/in/wbpluto/)
 * **🎞️ Broadcasters:[Vincent Kok](https://www.linkedin.com/in/vincekok/), [Kristin Deokiesingh](https://www.linkedin.com/in/sineaddeokiesingh/)
-* **🙏 Core Contributor: [Neeraj Kumar](https://www.linkedin.com/in/neerajtrainer/)
+* **🙏 Project Lead: [Neeraj Kumar](https://www.linkedin.com/in/neerajtrainer/)
 
 
