@@ -70,7 +70,7 @@ https://aka.ms/DP-600-BW
 
 ![DP-600MM-2025-01-25-162603](https://github.com/user-attachments/assets/e11d0e90-5bad-4ed6-a024-3f5dde334c72)
 
-##### Data Engineering on Microsoft Azure (203) and Implementing a Data Analytics Solution with Azure Synapse Analytics (DP-3012) Mindmap
+##### Data Engineering on Microsoft Azure (203) and Implementing a Data Analytics Solution with Azure Synapse Analytics (DP-3012) Combined Mindmap
 
 The DP-203 course, "Data Engineering on Microsoft Azure," is designed for Azure Data Engineers. It covers data integration, transformation, and consolidation from various sources, building secure and compliant data processing pipelines, and designing data storage solutions. This course equips you with the skills to manage and analyze data using Azure services like Azure Data Factory, Azure Synapse Analytics, and Azure Databricks.
 
