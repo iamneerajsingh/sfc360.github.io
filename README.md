@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/913528c6-5b33-442f-b43c-14d8863621b9)![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
+![image](https://github.com/user-attachments/assets/913528c6-5b33-442f-b43c-14d8863621b9)
 
 
 Created with ❤️ by Microsoft Technical Trainers
