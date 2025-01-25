@@ -62,8 +62,8 @@ https://aka.ms/DP-100-BW
 
 ![DP-100 Mindmaps](https://github.com/user-attachments/assets/52343e3c-b526-4453-8017-f1b073a35d24)
 
-
 #### Microsoft Fabric Analytics Engineer(DP-600) Mindmap
+ 
 The DP-600 course, "Microsoft Fabric Analytics Engineer," equips data professionals with skills to implement and manage enterprise-scale data analytics solutions using Microsoft Fabric. It covers dataflows, pipelines, and notebooks to develop semantic models, data warehouses, and lakehouses. Ideal for experienced data analysts and engineers, it requires knowledge of SQL, KQL, or DAX1.
 
 https://aka.ms/DP-600-BW
