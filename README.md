@@ -63,6 +63,14 @@ https://aka.ms/DP-100-BW
 ![DP-100 Mindmaps](https://github.com/user-attachments/assets/52343e3c-b526-4453-8017-f1b073a35d24)
 
 
+##### Microsoft Fabric Analytics Engineer(DP-600) Mindmap
+The DP-600 course, "Microsoft Fabric Analytics Engineer," equips data professionals with skills to implement and manage enterprise-scale data analytics solutions using Microsoft Fabric. It covers dataflows, pipelines, and notebooks to develop semantic models, data warehouses, and lakehouses. Ideal for experienced data analysts and engineers, it requires knowledge of SQL, KQL, or DAX1.
+
+https://aka.ms/DP-600-BW
+
+![DP-600MM-2025-01-25-162603](https://github.com/user-attachments/assets/e11d0e90-5bad-4ed6-a024-3f5dde334c72)
+
+
 ### 2. Security, Compliance & Identity
 
 #### Microsoft Azure Security Technologies (AZ-500) Mindmaps
@@ -144,7 +152,6 @@ The mindmaps for all topics covered in the AZ-2005 training is highlighted below
 
 
 ![AZ-2005 Mindmaps](https://github.com/user-attachments/assets/2039187d-ac29-4ff4-851c-03d3f610b466)
-
 
 
 ### 6. Business Applications
