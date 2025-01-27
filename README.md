@@ -9,6 +9,14 @@ Project Brainwave is an initiative which focuses on Visual Styles of learning an
 We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better. 
 
 
+# Research based on Nuroscience of learning
+Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
+
+
+[Learning Stratergies_v1,0.pptx](https://github.com/user-attachments/files/18556420/Learning.Stratergies_v1.0.pptx)
+
+
+
 ## Mindmaps
 
 ### 1. Data & Artificial Intelligence
