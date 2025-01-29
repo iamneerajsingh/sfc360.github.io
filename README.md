@@ -1,5 +1,5 @@
-![Designer (4)](https://github.com/user-attachments/assets/6124b6a6-3fad-46a1-8c91-b8d5c080b355)
 
+![brainwave cover](https://github.com/user-attachments/assets/c0b93a9a-6f03-40b1-b87e-7a1f6c5b2f12)
 
 Created with ❤️ by Microsoft Technical Trainers
 
