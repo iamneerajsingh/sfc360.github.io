@@ -264,7 +264,7 @@ https://aka.ms/AZ-2005-FCM1
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
 
 Special Thanks ❤️
-* **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/)
+* **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/), Chelsea Han
 * **✍️ Flashcard Artists: [Ajay Lodha](https://www.linkedin.com/in/alodha100/), [Junwei Huang ](https://www.linkedin.com/in/wbpluto/)
 * **🎞️ Broadcasters:[Vincent Kok](https://www.linkedin.com/in/vincekok/), [Kristin Deokiesingh](https://www.linkedin.com/in/sineaddeokiesingh/)
 * **🙏 Project Lead: [Neeraj Kumar](https://www.linkedin.com/in/neerajtrainer/)
