@@ -247,11 +247,18 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 
 ### 3. Modern WorkSpace / Copilot
 
+#### Craft effective prompts for Microsoft 365 Copilot (MS-4005) Flashcards
+
+
+The MS-4005 course, "Craft Effective Prompts for Microsoft 365 Copilot," teaches you how to create impactful and contextual prompts for Microsoft 365 applications. You'll learn to provide clear goals, context, sources, and expectations to achieve the best results. This course covers real-world scenarios using Copilot in apps like Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat. Ideal for users familiar with Microsoft 365 apps
+
+https://aka.ms/MS-4005FC
+
 ### 4. Infrastructure
 
 ### 5. Digital Application Innovation
 
-#### Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK (AZ-2005) Mindmaps
+#### Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK (AZ-2005) Flashcards
 The AZ-2005 course, "Develop AI Agents using Azure OpenAI and the Semantic Kernel SDK," teaches you how to build and enhance AI agents. You'll learn to create plugins, give your AI agent skills, and use intelligent planners. The course includes hands-on labs and a guided project to create an AI travel agent. It's ideal for Azure developers, AI engineers, and data scientists.
 
 The Flashcards for all topics covered in the AZ-2005 training is below:
