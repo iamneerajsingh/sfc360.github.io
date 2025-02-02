@@ -112,6 +112,15 @@ https://aka.ms/AZ-500-BW
 
 ### 3. Modern WorkSpace / Copilot
 
+#### Craft effective prompts for Microsoft 365 Copilot (MS-4005) Flashcards
+
+The MS-4005 course, "Craft Effective Prompts for Microsoft 365 Copilot," teaches you how to create impactful and contextual prompts for Microsoft 365 applications. You'll learn to provide clear goals, context, sources, and expectations to achieve the best results. This course covers real-world scenarios using Copilot in apps like Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat. Ideal for users familiar with Microsoft 365 apps
+
+The mindmaps for all topics covered in the MS-4005 training can be seen in below mindmap
+
+![MS-4005 Mindmap-2025-02-02-170325](https://github.com/user-attachments/assets/8922c06a-4d33-4564-b1bb-45ead1a9bf74)
+
+
 ### 4. Infrastructure
 
 #### Microsoft Azure Administrator (AZ-104) Mindmaps
@@ -251,6 +260,9 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 
 
 The MS-4005 course, "Craft Effective Prompts for Microsoft 365 Copilot," teaches you how to create impactful and contextual prompts for Microsoft 365 applications. You'll learn to provide clear goals, context, sources, and expectations to achieve the best results. This course covers real-world scenarios using Copilot in apps like Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat. Ideal for users familiar with Microsoft 365 apps
+
+The Flashcards for all topics covered in the MS-4005 training is below:
+
 
 https://aka.ms/MS-4005FC
 
