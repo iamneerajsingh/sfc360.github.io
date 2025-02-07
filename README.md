@@ -254,6 +254,16 @@ The flashcards for all topics covered in the SC-300 training can be accessed fro
 | 4      | Plan and Implement an Identity Governance Strategy      | https://aka.ms/SC-300FCM4 |
 | 5      | Implement Access Management for Azure Resources         | https://aka.ms/SC-300FCM5 |
 
+#### Enhance security operations by using Microsoft Security Copilot (SC-5006) Flashcards
+
+The SC-5006 course teaches security professionals to use Microsoft Security Copilot to enhance security operations. It covers generative AI fundamentals, core features of Security Copilot, and its integration with other Microsoft security products. The course includes practical use cases and setup guidance. Ideal for beginners and professionals aiming to leverage AI in security.
+
+
+The Flashcards for all topics covered in the SC-5006 training is below:
+
+https://aka.ms/SC-5006FC
+
+
 ### 3. Modern WorkSpace / Copilot
 
 #### Craft effective prompts for Microsoft 365 Copilot (MS-4005) Flashcards
