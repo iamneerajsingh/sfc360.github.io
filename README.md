@@ -12,9 +12,12 @@ We will also be sharing ways to create personalized visual tools backed by neuro
 ## Research based on Nuroscience of learning
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
+[Learning_Stratergies_Research_v1.0.pptx](https://github.com/user-attachments/files/18847484/Learning_Stratergies_Research_v1.0.pptx)
 
-[Learning Stratergies_v1,0.pptx](https://github.com/user-attachments/files/18556420/Learning.Stratergies_v1.0.pptx)
 
+[Miller's Law and Its Application to Mind Mapping.pptx](https://github.com/user-attachments/files/18847488/Miller.s.Law.and.Its.Application.to.Mind.Mapping.pptx)
+
+[Step-by-Step Guide to Creating an Effective Mind Map.pptx](https://github.com/user-attachments/files/18847495/Step-by-Step.Guide.to.Creating.an.Effective.Mind.Map.pptx)
 
 
 ## Mindmaps
