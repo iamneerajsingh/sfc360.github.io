@@ -36,17 +36,7 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 </video>
 
 
-
-
-https://github.com/user-attachments/assets/111ab008-ef8d-4cc9-9462-3fa5beb087de
-
-
-
-
 ![AI-102 Mindmap](https://github.com/user-attachments/assets/3dedcc7e-7cc3-42b5-a43d-f12266f5410d)
-
-
-
 
 
 
