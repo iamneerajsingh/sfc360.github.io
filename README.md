@@ -35,18 +35,6 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 https://github.com/user-attachments/assets/d989f888-e47b-45de-95a2-abc0be71963e
 
 
-
-<video width="700" controls autoplay>
-  <source src="AI-Mindmap.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-![AI-102 Mindmap](https://github.com/user-attachments/assets/3dedcc7e-7cc3-42b5-a43d-f12266f5410d)
-
-
-
-
 | Module    | Topic                                      | Link                                              |
 |-----------|--------------------------------------------|---------------------------------------------------|
 | Module 00 | Syllabus                                   | https://aka.ms/AI-102-Syllabus |
