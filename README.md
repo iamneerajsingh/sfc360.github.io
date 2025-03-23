@@ -32,6 +32,14 @@ The mindmaps for all topics covered in the AI-102 exam can be accessed from the 
 
 https://github.com/user-attachments/assets/d989f888-e47b-45de-95a2-abc0be71963e
 
+# My GitHub Page
+
+Welcome to my GitHub Page! Here's a cool video:
+
+<video width="600" controls autoplay loop>
+  <source src="AI-Mindmap.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
