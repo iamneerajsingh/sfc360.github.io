@@ -47,7 +47,7 @@
 | Microsoft Azure Security Technologies (AZ-500) | https://aka.ms/AZ-500-BW | Neeraj Kumar |
 
 ### SC-300
-| Module | Description | Mindmaps | Author |
+| Module | Description | Flashcards | Author |
 |--------|-------------|----------|--------|
 | 1 | Implement an Identity Management Solution | https://aka.ms/SC-300-FCM01 | Neeraj Kumar |
 | 2 | Implement an Authentication and Access Management Solution | https://aka.ms/SC-300FCM02 | Neeraj Kumar |
@@ -56,14 +56,14 @@
 | 5 | Implement Access Management for Azure Resources | https://aka.ms/SC-300FCM5 | Neeraj Kumar |
 
 ### SC-5006
-| Description | Mindmaps | Author |
+| Description | Flashcard | Author |
 |-------------|----------|--------|
 | Security Copilot | https://aka.ms/SC-5006FC | Junwei Huang |
 
 ## Modern Workplace/ Copilot
 
 ### MS-4005
-| Description | Mindmaps | Author |
+| Description | Flashcard | Author |
 |-------------|----------|--------|
 | Craft effective prompts for Microsoft 365 Copilot | https://aka.ms/MS-4005FC | Neeraj Kumar |
 
