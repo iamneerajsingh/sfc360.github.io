@@ -3,6 +3,8 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
+![Create with love by Mtts](https://github.com/user-attachments/assets/f1faca9f-6314-4d1f-b7d1-927ddeacdc01)
+
 # About
 
 ![Main brainwave-without thank you](https://github.com/user-attachments/assets/d1d3ddc2-4bbe-42ee-9c92-d77eb922f291)
