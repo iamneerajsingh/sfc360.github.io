@@ -3,7 +3,7 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-# <a href="README.md">Home</a>
+# <a href="README.md">Home</a> 🏡
 
 ![8 seconds delay](https://github.com/user-attachments/assets/7c216923-187e-4e5d-9134-384694a9676b)
 
@@ -17,7 +17,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 [Step-by-Step Guide to Creating an Effective Mind Map.pptx](https://github.com/user-attachments/files/18847495/Step-by-Step.Guide.to.Creating.an.Effective.Mind.Map.pptx)
 
 
-## <a href="mindmap.md">Mindmaps</a>
+## <a href="mindmap.md">Mindmaps</a> 🧠
 
 <div class="button-container">
   <a href="mindmap.md" class="comic-button">Click Here to access Mindmaps page </a>
@@ -27,7 +27,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
-## <a href="flashcards.md">Flashcards</a>
+## <a href="flashcards.md">Flashcards</a> 💡
 
 <div class="button-container">
   <a href="flashcards.md" class="comic-button"> Click Here to access Flashcards page </a>
@@ -38,7 +38,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
 
-## Feedback
+## Feedback ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
 
 ## Core team ❤️
