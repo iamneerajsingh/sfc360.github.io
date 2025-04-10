@@ -1,7 +1,5 @@
 
 ![brainwave cover](https://github.com/user-attachments/assets/c0b93a9a-6f03-40b1-b87e-7a1f6c5b2f12)
-![1](https://github.com/user-attachments/assets/ff38d41d-0457-4098-a353-e663ce6d1d4c)
-
 
 ![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (1)](https://github.com/user-attachments/assets/931cbe95-9cb4-4ebf-be33-0c9bf2523288)
 
@@ -9,6 +7,10 @@
 Created with ❤️ by Microsoft Technical Trainers
 
 # About
+
+![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (2)](https://github.com/user-attachments/assets/808dde41-1c3c-46d3-b06e-f6e2c1cfbaa0)
+
+
 Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
 
 We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better. 
