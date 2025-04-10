@@ -38,12 +38,20 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
 
+## Feedback
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
 
-Special Thanks ❤️
-* **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/), Chelsea Han
+## Core team ❤️
+
+![Core team](https://github.com/user-attachments/assets/3c0637b9-af65-445b-84a1-a2cf0bde803f)
+
+
+* **🎨 Mindmap Artists: [Jane Roughan](https://www.linkedin.com/in/jane-roughan/), [Shivender Pratap Singh](https://www.linkedin.com/in/shivender09071987/),
 * **✍️ Flashcard Artists: [Ajay Lodha](https://www.linkedin.com/in/alodha100/), [Junwei Huang ](https://www.linkedin.com/in/wbpluto/)
 * **🎞️ Broadcasters:[Vincent Kok](https://www.linkedin.com/in/vincekok/), [Kristin Deokiesingh](https://www.linkedin.com/in/sineaddeokiesingh/)
 * **🙏 Project Lead: [Neeraj Kumar](https://www.linkedin.com/in/neerajtrainer/)
 
+Special Thanks to contributors ❤️
+
+* **🎨 Mindmap Artists: Chelsea Han
 
