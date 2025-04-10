@@ -11,11 +11,6 @@ Created with ❤️ by Microsoft Technical Trainers
 ![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (2)](https://github.com/user-attachments/assets/808dde41-1c3c-46d3-b06e-f6e2c1cfbaa0)
 
 
-Project Brainwave is an initiative which focuses on Visual Styles of learning and Our main goal is to boost learners’ retention of complex concepts by helping them understand how to leverage Visual tools to move information from their short-term memory to their long-term memory which helps in retention, comprehension, recall, creativity, organization and critical thinking.
-
-We will also be sharing ways to create personalized visual tools backed by neuroscience to help learners retain more content and learn better. 
-
-
 ## Research based on Nuroscience of learning
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
