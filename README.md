@@ -7,7 +7,7 @@ Created with ❤️ by Microsoft Technical Trainers
 
 ![8 seconds delay](https://github.com/user-attachments/assets/7c216923-187e-4e5d-9134-384694a9676b)
 
-## Research based on Nuroscience of learning
+## Research based on Nuroscience of learning 👩‍🏫
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
 [Learning_Stratergies_Research_v1.0.pptx](https://github.com/user-attachments/files/18847484/Learning_Stratergies_Research_v1.0.pptx)
