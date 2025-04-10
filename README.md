@@ -6,7 +6,7 @@ Created with ❤️ by Microsoft Technical Trainers
 
 # About
 
-![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (2)](https://github.com/user-attachments/assets/808dde41-1c3c-46d3-b06e-f6e2c1cfbaa0)
+![Main brainwave-without thank you](https://github.com/user-attachments/assets/d1d3ddc2-4bbe-42ee-9c92-d77eb922f291)
 
 
 ## Research based on Nuroscience of learning
