@@ -72,5 +72,6 @@ Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉
 
 Special Thanks to contributors ❤️
 
+* **🙏 Sponsor: [Preethi Doss](https://www.linkedin.com/in/preethidoss/)
 * **🎨 Mindmap Artists: [Chelsea Han](https://www.linkedin.com/in/chelseabhan/) 
 
