@@ -1,4 +1,4 @@
-## Mindmaps
+## <a href="mindmap.md">Mindmaps</a> 🧠
 
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
