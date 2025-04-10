@@ -1,7 +1,15 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ## Mindmaps
 
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
+
+
+
+<div class="collapsible">
+  <button class="collapsible-button"> ##1. Data & Artificial Intelligence</button>
+  <div class="collapsible-content">
 
 
 ### 1. Data & Artificial Intelligence
