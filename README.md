@@ -39,6 +39,11 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 ## <a href="flashcards.md">Main Index </a> 📓
 
+<div class="button-container">
+  <a href="mainindex.md" class="comic-button">Click Here to access Main Index page </a>
+</div>
+
+![Main Index](https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4)
 
 ## Feedback ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
