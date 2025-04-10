@@ -57,7 +57,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 
 
-## <a href="[mindmap.md](https://aka.ms/BrainwaveFeedback)">Feedback</a> Feedback ℹ️
+## [Feedback](https://aka.ms/BrainwaveFeedback) ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
 
 ## Core team ❤️
