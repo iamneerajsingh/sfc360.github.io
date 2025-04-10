@@ -9,6 +9,11 @@ Created with ❤️ by Microsoft Technical Trainers
 
 
 
+<video width="200" controls autoplay loop>
+  <source src="brainwavemusic.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 https://github.com/user-attachments/assets/f0b97ffe-1269-4ec1-a8c9-073b0f24d7f6
 
 
