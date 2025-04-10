@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-      }
+}
 
 nav {
     background-color: #333;
@@ -28,4 +28,43 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.comic-button {
+    background-color: #ffcc00;
+    border: 2px solid #000;
+    border-radius: 10px;
+    color: #000;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: transform 0.2s;
+}
+
+.comic-button:hover {
+    transform: scale(1.1);
+}
+
+.side-nav {
+    position: fixed;
+    top: 50px;
+    left: 10px;
+    width: 200px;
+    background-color: #ffcc00;
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.side-nav .comic-button {
+    display: block;
+    margin-bottom: 10px;
 }
