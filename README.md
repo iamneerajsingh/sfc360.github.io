@@ -3,7 +3,7 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-# About
+# Home
 
 ![8 seconds delay](https://github.com/user-attachments/assets/7c216923-187e-4e5d-9134-384694a9676b)
 
@@ -17,21 +17,17 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 [Step-by-Step Guide to Creating an Effective Mind Map.pptx](https://github.com/user-attachments/files/18847495/Step-by-Step.Guide.to.Creating.an.Effective.Mind.Map.pptx)
 
 
-## Mindmaps 
-
-
-!Mindmaps
-
+## <a href="mindmaps.md">Mindmaps</a>
 
 <div class="button-container">
-  <a href="mindmap.md" class="comic-button">## Mindmaps</a>
+  <a href="mindmap.md" class="comic-button">Click Here to access Mindmaps page </a>
 </div>
 
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
 ## Flashcards
 <div class="button-container">
-  <a href="flashcards.md" class="comic-button"> ##Flashcards</a>
+  <a href="flashcards.md" class="comic-button"> Click Here to access Flashcards page </a>
 </div>
 
 
