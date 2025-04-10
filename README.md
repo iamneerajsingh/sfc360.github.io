@@ -16,6 +16,13 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 [Step-by-Step Guide to Creating an Effective Mind Map.pptx](https://github.com/user-attachments/files/18847495/Step-by-Step.Guide.to.Creating.an.Effective.Mind.Map.pptx)
 
+## <a href="mainindex.md">Main Index </a> 📓
+
+<div class="button-container">
+  <a href="mainindex.md" class="comic-button">Click Here to access Main Index page </a>
+</div>
+
+![Main Index](https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4)
 
 ## <a href="mindmap.md">Mindmaps</a> 🧠
 
@@ -37,13 +44,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
-## <a href="mainindex.md">Main Index </a> 📓
 
-<div class="button-container">
-  <a href="mainindex.md" class="comic-button">Click Here to access Main Index page </a>
-</div>
-
-![Main Index](https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4)
 
 ## Feedback ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
