@@ -1,6 +1,6 @@
 # Course Categories and Details
 
-## Data and AI
+## Data and AI 📊
 
 ### AI-102
 | Module | Description | Mindmaps | Flashcards | Author |
@@ -39,7 +39,7 @@
 |-------------|----------|--------|
 | Data Engineering on Microsoft Azure | https://aka.ms/DP-203-BW | Chelsea Han |
 
-## Security and Identity
+## Security and Identity 🕵️‍♂️
 
 ### AZ-500
 | Description | Mindmaps | Author |
@@ -60,14 +60,14 @@
 |-------------|----------|--------|
 | Security Copilot | https://aka.ms/SC-5006FC | Junwei Huang |
 
-## Modern Workplace/ Copilot
+## Modern Workplace/ Copilot 🧑‍✈️
 
 ### MS-4005
 | Description | Flashcard | Author |
 |-------------|----------|--------|
 | Craft effective prompts for Microsoft 365 Copilot | https://aka.ms/MS-4005FC | Neeraj Kumar |
 
-## Infrastructure
+## Infrastructure 🏢
 
 ### AZ-104
 | Description | Mindmaps | Author |
@@ -100,14 +100,14 @@
 | Module-10 | BCDR | https://aka.ms/AZ-305-M10 | Neeraj Kumar |
 | Module-11 | Migrations | https://aka.ms/AZ-305-M11 | Neeraj Kumar |
 
-## Digital App Innovation
+## Digital App Innovation 📱
 
 ### AZ-2007
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
 | App Innovation with Github Copilot | https://go.klaxoon.com/DQKQDF4 | Shivender Pratap Singh |
 
-## Business Applications
+## Business Applications 🧑‍💻📈
 
 ### PL-300
 | Description | Mindmaps | Author |
