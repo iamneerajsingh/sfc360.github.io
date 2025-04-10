@@ -3,9 +3,6 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-<img src="https://github.com/user-attachments/assets/f1faca9f-6314-4d1f-b7d1-927ddeacdc01" alt= "Mtts" style="width:100px; height:50px;">
-
-
 # About
 
 ![Copy of Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation](https://github.com/user-attachments/assets/e080f9f4-9a66-4dd9-aebd-cbb12f5ac6d4)
