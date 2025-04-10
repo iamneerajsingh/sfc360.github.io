@@ -22,6 +22,8 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 ## Mindmaps
 
+![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
+
 
 
 ### 1. Data & Artificial Intelligence
