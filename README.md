@@ -3,7 +3,7 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-# Home
+# <a href="README.md">Home</a>
 
 ![8 seconds delay](https://github.com/user-attachments/assets/7c216923-187e-4e5d-9134-384694a9676b)
 
@@ -23,9 +23,10 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
   <a href="mindmap.md" class="comic-button">Click Here to access Mindmaps page </a>
 </div>
 
+
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
-## Flashcards
+## <a href="flashcards.md">Flashcards</
 <div class="button-container">
   <a href="flashcards.md" class="comic-button"> Click Here to access Flashcards page </a>
 </div>
