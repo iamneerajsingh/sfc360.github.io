@@ -33,7 +33,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ## <a href="mindmap.md">Mindmaps</a> 🧠
 
 <div class="button-container">
-  <a href="mindmap.md" class="comic-button">###Click Here to access Mindmaps page </a>
+  <a href="mindmap.md" class="comic-button">Click Here to access Mindmaps page </a>
 </div>
 
 
@@ -43,7 +43,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ## <a href="flashcards.md">Flashcards</a> 💡
 
 <div class="button-container">
-  <a href="flashcards.md" class="comic-button"> ###Click Here to access Flashcards page </a>
+  <a href="flashcards.md" class="comic-button"> Click Here to access Flashcards page </a>
 </div>
 
 
