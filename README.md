@@ -1,8 +1,6 @@
-
-![brainwave cover](https://github.com/user-attachments/assets/c0b93a9a-6f03-40b1-b87e-7a1f6c5b2f12)
-
 ![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (1)](https://github.com/user-attachments/assets/931cbe95-9cb4-4ebf-be33-0c9bf2523288)
 
+![brainwave cover](https://github.com/user-attachments/assets/c0b93a9a-6f03-40b1-b87e-7a1f6c5b2f12)
 
 Created with ❤️ by Microsoft Technical Trainers
 
