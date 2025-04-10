@@ -30,7 +30,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ## <a href="mainindex.md">Main Index </a> 📓
 
 <div class="button-container">
-  <a href="mainindex.md" class="comic-button">### Click Here to access Main Index page </a>
+  <a href="mainindex.md" class="comic-button">Click Here to access Main Index page </a>
 </div>
 
 ![Main Index](https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4)
