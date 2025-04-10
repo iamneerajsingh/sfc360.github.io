@@ -37,7 +37,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
-## <a href="flashcards.md">Main Index </a> 📓
+## <a href="mainindex.md">Main Index </a> 📓
 
 <div class="button-container">
   <a href="mainindex.md" class="comic-button">Click Here to access Main Index page </a>
