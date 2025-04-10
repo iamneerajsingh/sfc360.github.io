@@ -17,7 +17,13 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 [Step-by-Step Guide to Creating an Effective Mind Map.pptx](https://github.com/user-attachments/files/18847495/Step-by-Step.Guide.to.Creating.an.Effective.Mind.Map.pptx)
 
 
-## Mindmaps <div class="button-container">
+## Mindmaps 
+
+
+!Mindmaps
+
+
+<div class="button-container">
   <a href="mindmap.md" class="comic-button">## Mindmaps</a>
 </div>
 
