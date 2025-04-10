@@ -14,9 +14,6 @@ Created with ❤️ by Microsoft Technical Trainers
   Your browser does not support the video tag.
 </video>
 
-https://github.com/user-attachments/assets/f0b97ffe-1269-4ec1-a8c9-073b0f24d7f6
-
-
 
 ## Neuroscience of learning 👩‍🏫
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
