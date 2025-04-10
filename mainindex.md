@@ -105,7 +105,7 @@
 ### AZ-2007
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
-| App Innovation with Github Copilot | Klaxoon | Shivender Pratap Singh |
+| App Innovation with Github Copilot | https://go.klaxoon.com/DQKQDF4 | Shivender Pratap Singh |
 
 ## Business Applications
 
