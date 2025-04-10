@@ -3,7 +3,7 @@
 
 Created with ❤️ by Microsoft Technical Trainers
 
-![Create with love by Mtts]<img src="https://github.com/user-attachments/assets/f1faca9f-6314-4d1f-b7d1-927ddeacdc01" alt="Create with love by Mtts" style="width:200px; height:200px;">
+![Create with love by Mtts]<img src="https://github.com/user-attachments/assets/f1faca9f-6314-4d1f-b7d1-927ddeacdc01" alt="Create with love by Mtts" style="width:100px; height:50px;">
 
 
 # About
