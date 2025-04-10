@@ -7,8 +7,7 @@ Created with ❤️ by Microsoft Technical Trainers
 
 # About
 
-![Main brainwave-without thank you](https://github.com/user-attachments/assets/d1d3ddc2-4bbe-42ee-9c92-d77eb922f291)
-
+![Copy of Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation](https://github.com/user-attachments/assets/e080f9f4-9a66-4dd9-aebd-cbb12f5ac6d4)
 
 ## Research based on Nuroscience of learning
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
@@ -22,6 +21,8 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 
 
 ## Mindmaps
+
+
 
 ### 1. Data & Artificial Intelligence
 
