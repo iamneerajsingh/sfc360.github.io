@@ -22,12 +22,14 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ![Mindmaps](https://github.com/user-attachments/assets/a2e0d01d-1aaf-4e8a-9951-4ba4c741eab7)
 
 
-## Pages
+## Index
 
 <div class="button-container">
-  <a href="mindmaps.md" class="comic-button">Mindmaps</a>
+  <a href="mindmap.md" class="comic-button">Mindmaps</a>
+  
   <a href="flashcards.md" class="comic-button">Flashcards</a>
 </div>
+
 
 
 
