@@ -37,7 +37,7 @@
 ### DP-203+DP-3012
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
-| | https://aka.ms/DP-203-BW | |
+| Data Engineering on Microsoft Azure | https://aka.ms/DP-203-BW | Chelsea Han |
 
 ## Security and Identity
 
