@@ -53,5 +53,5 @@ Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉
 
 Special Thanks to contributors ❤️
 
-* **🎨 Mindmap Artists: Chelsea Han
+* **🎨 Mindmap Artists: [Chelsea Han](https://www.linkedin.com/in/chelseabhan/) 
 
