@@ -1,5 +1,4 @@
-## Flashcards
-
+## <a href="flashcards.md">Flashcards</a> 💡
 
 ### 1. Data & Artificial Intelligence
 
