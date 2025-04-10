@@ -98,7 +98,7 @@
 | Module-08 | Monitoring | https://aka.ms/AZ-305-M8 | Neeraj Kumar |
 | Module-09 | Networks | https://aka.ms/AZ-305-M9 | Neeraj Kumar |
 | Module-10 | BCDR | https://aka.ms/AZ-305-M10 | Neeraj Kumar |
-| Module-11 | Migrations | https://aka.ms/AZ-305-M11 | |
+| Module-11 | Migrations | https://aka.ms/AZ-305-M11 | Neeraj Kumar |
 
 ## Digital App Innovation
 
