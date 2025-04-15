@@ -113,4 +113,5 @@
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
 | Power BI Data Analyst Associate (PL-300) | https://aka.ms/PL-300-BW-01 | Kristin Deokiesingh |
+| Power BI Data Analyst Associate Resources(PL-300) | https://aka.ms/PL-300-BW-03 | Kristin Deokiesingh |
 | | https://aka.ms/PL-300-BW-02 | Jane Roughan |
