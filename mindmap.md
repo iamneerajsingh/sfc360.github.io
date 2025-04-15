@@ -104,7 +104,7 @@ https://aka.ms/AZ-500-BW
 
 ### 3. Modern WorkSpace / Copilot
 
-#### Craft effective prompts for Microsoft 365 Copilot (MS-4005) Flashcards
+#### Craft effective prompts for Microsoft 365 Copilot (MS-4005) Mindmap
 
 The MS-4005 course, "Craft Effective Prompts for Microsoft 365 Copilot," teaches you how to create impactful and contextual prompts for Microsoft 365 applications. You'll learn to provide clear goals, context, sources, and expectations to achieve the best results. This course covers real-world scenarios using Copilot in apps like Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat. Ideal for users familiar with Microsoft 365 apps
 
