@@ -1,5 +1,8 @@
 # Course Categories and Details
 
+![432411806-65ce9737-926a-4c1c-bee6-85186ec035c4](https://github.com/user-attachments/assets/2f186417-1f44-405c-95bf-6e72b5e2c7d4)
+
+
 ## Data and AI 📊
 
 ### AI-102
