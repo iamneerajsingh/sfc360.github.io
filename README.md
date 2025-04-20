@@ -1,6 +1,6 @@
 
-![Copy of Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation](https://github.com/user-attachments/assets/dff7ecd2-4111-455f-b1d4-1084e2c1b73a)
 
+![mAINbRAINWAVE-gIF](https://github.com/user-attachments/assets/f2f91d42-a487-4626-b1b9-6033ddfd94c1)
 
 Created with ❤️ by Microsoft Technical Trainers
 
