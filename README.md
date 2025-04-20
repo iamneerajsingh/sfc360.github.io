@@ -1,4 +1,5 @@
-![Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation (1)](https://github.com/user-attachments/assets/931cbe95-9cb4-4ebf-be33-0c9bf2523288)
+
+![Copy of Yellow, Pink and Blue Colorful Animated Comic Pop Art Presentation](https://github.com/user-attachments/assets/dff7ecd2-4111-455f-b1d4-1084e2c1b73a)
 
 
 Created with ❤️ by Microsoft Technical Trainers
