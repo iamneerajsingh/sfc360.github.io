@@ -31,6 +31,7 @@
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
 | Azure Data Scientist Associate (DP-100) | https://aka.ms/DP-100-BW | Kristin Deokiesingh |
+| Azure Data Scientist Associate | https://aka.ms/DP-100-BW1 | Jane Roughan |
 
 ### DP-600
 | Description | Mindmaps | Author |
@@ -117,4 +118,4 @@
 |-------------|----------|--------|
 | Power BI Data Analyst Associate (PL-300) | https://aka.ms/PL-300-BW-01 | Kristin Deokiesingh |
 | Power BI Data Analyst Associate Resources(PL-300) | https://aka.ms/PL-300-BW-03 | Kristin Deokiesingh |
-| | https://aka.ms/PL-300-BW-02 | Jane Roughan |
+| Power BI Data Analyst | https://aka.ms/PL-300-BW-02 | Jane Roughan |
