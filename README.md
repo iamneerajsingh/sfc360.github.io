@@ -19,6 +19,15 @@ Created with ❤️ by Microsoft Technical Trainers
 ## Neuroscience of learning 👩‍🏫
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
+<div class="embed-container">
+  <iframe width="640" height="390" src="https://www.youtube.com/embed/Iifog2N-DMs" frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+  .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
+  .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
+
 [Learning_Stratergies_Research_v1.0.pptx](https://github.com/user-attachments/files/18847484/Learning_Stratergies_Research_v1.0.pptx)
 
 [Miller's Law and Its Application to Mind Mapping.pptx](https://github.com/user-attachments/files/18847488/Miller.s.Law.and.Its.Application.to.Mind.Mapping.pptx)
