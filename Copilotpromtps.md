@@ -1,7 +1,7 @@
 
 # Copilot Prompts to Automate creation of mindmaps and Flashcards
 
-##To automate the creation of the mindmaps run the  below prompt on copilot copy the mermaid code and go to [mermaid website](https://mermaid.live/) to visualize the mind map
+## To automate the creation of the mindmaps run the  below prompt on copilot copy the mermaid code and go to [mermaid website](https://mermaid.live/) to visualize the mind map
 
 
 Innovative training techniques added using meta prompts to create automated mind maps and Flashcards using Copilot, after running the prompt on copilot copy the mermaid code and go to mermaid website to visualize the mind map. Similarly Flashcards can be created and updated on OneNote, as shown in the meta prompts below
@@ -16,7 +16,7 @@ Output: On mermaid website we can see the automated mind map
 
 ## To automate the creation of the Flashcards run the below prompt on copilot 
 
-Flashcard Prompt: I am creating a 10 question flashcard that will be hosted on <Add Platform here-eg Onenote>. i will be sharing AI-102 learn module  one by one, you need to go through each topic and subtopic and create the top 10 flashcard that can help me recall the topics <attach AZ-102-Module-01 powerpoint or link to AZ-102 study guide>
+Flashcard Prompt: I am creating a 10 question flashcard that will be hosted on ---Add Platform here-eg Onenote---. i will be sharing AI-102 learn module  one by one, you need to go through each topic and subtopic and create the top 10 flashcard that can help me recall the topics <attach AZ-102-Module-01 powerpoint or link to AZ-102 study guide>
 
  
 <img width="1491" height="1067" alt="fv" src="https://github.com/user-attachments/assets/a3ac8c74-f592-4bc7-9c0e-e112ff16969e" />
