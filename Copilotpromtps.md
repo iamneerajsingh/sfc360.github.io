@@ -1,6 +1,8 @@
 
-# Copilot Prompts to Automate creation of mindmaps and Flashcards
+# Copilot Automation
 
+
+# Copilot Prompts to Automate creation of mindmaps and Flashcards
 ## To automate the creation of the mindmaps run the  below prompt on copilot copy the mermaid code and go to [mermaid website](https://mermaid.live/) to visualize the mind map
 
 Automated Mindmap Prompt: Please develop a mind map in mermaid for the DP-600 course Study guide for [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)
