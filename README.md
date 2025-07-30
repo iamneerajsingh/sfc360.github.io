@@ -55,7 +55,7 @@ https://youtu.be/Iifog2N-DMs
 
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
-## <a href="mainindex.md">Copilot Automation</a> 📓
+## <a href="Copilotpromtps.md">Copilot Automation</a> 📓
 
 <div class="button-container">
   <a href="mainindex.md" class="comic-button">Click Here to access Copilot page </a>
