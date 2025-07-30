@@ -61,7 +61,8 @@ https://youtu.be/Iifog2N-DMs
   <a href="mainindex.md" class="comic-button">Click Here to access Copilot page </a>
 </div>
 
-![Copilot Automation]([https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4](https://github.com/AzureBrainwave/AzureBrainwave.github.io/blob/main/Copilotpromtps.md))
+![Copilot Automation](![Green Cartoon Animated Memory Game Presentation](https://github.com/user-attachments/assets/56eab7c2-7373-43ff-a934-53be115e1e1f)
+))
 
 ## [Feedback](https://aka.ms/BrainwaveFeedback) ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
