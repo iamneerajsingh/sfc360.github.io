@@ -58,7 +58,7 @@ https://youtu.be/Iifog2N-DMs
 ## <a href="Copilotpromtps.md">Copilot Automation</a> 📓
 
 <div class="button-container">
-  <a href="mainindex.md" class="comic-button">Click Here to access Copilot page </a>
+  <a href="Copilotpromtps.md" class="comic-button">Click Here to access Copilot page </a>
 </div>
 
 ![Green Cartoon Animated Memory Game Presentation](https://github.com/user-attachments/assets/56eab7c2-7373-43ff-a934-53be115e1e1f)
