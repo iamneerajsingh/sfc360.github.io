@@ -55,7 +55,13 @@ https://youtu.be/Iifog2N-DMs
 
 ![Flashcards-green](https://github.com/user-attachments/assets/bc2378a4-7af6-4181-9ca5-8579d958962c)
 
+## <a href="mainindex.md">Copilot Automation</a> 📓
 
+<div class="button-container">
+  <a href="mainindex.md" class="comic-button">Click Here to access Copilot page </a>
+</div>
+
+![Copilot Automation]([https://github.com/user-attachments/assets/65ce9737-926a-4c1c-bee6-85186ec035c4](https://github.com/AzureBrainwave/AzureBrainwave.github.io/blob/main/Copilotpromtps.md))
 
 ## [Feedback](https://aka.ms/BrainwaveFeedback) ℹ️
 Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
