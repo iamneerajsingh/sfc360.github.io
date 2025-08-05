@@ -20,13 +20,21 @@ Created with ❤️ by Microsoft Technical Trainers
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
 ### Forgetting Curve and Millers law
-https://youtu.be/Iifog2N-DMs
+https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
+
+<img width="2378" height="1175" alt="image" src="https://github.com/user-attachments/assets/14045e8f-fd09-44b6-9d97-45b58262be66" />
+
 
 ### Mindmaps (Learning how to learn- by Joseph Novak and Bob Gowin)
 https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-copilot-mindmaps-activity-7355512422113140736-aXg3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
 
+<img width="929" height="1593" alt="image" src="https://github.com/user-attachments/assets/8cdd9119-13b8-491c-9b36-ced0d58828ec" />
+
 ### Flashcards (Critical Importance of Retrival for learning by Karpicke & Roediger (2008))
 https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-flashcards-activerecall-activity-7358073415099961346-1lbd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
+
+<img width="938" height="1552" alt="image" src="https://github.com/user-attachments/assets/e489477e-3d31-4577-a7f6-0d67cc16899c" />
+
 
 [Learning_Stratergies_Research_v1.0.pptx](https://github.com/user-attachments/files/18847484/Learning_Stratergies_Research_v1.0.pptx)
 
