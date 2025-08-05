@@ -78,6 +78,24 @@
 |-------------|----------|--------|
 | Microsoft Azure Administrator (AZ-104) | https://aka.ms/AZ-104-BW | Neeraj Kumar |
 
+### AZ-104
+| Module | Description | Mindmaps | Flashcards | Author |
+|--------|-------------|----------|------------|--------|
+| Module 00 | Syllabus | https://aka.ms/AZ-104-Syllabus | | Neeraj Kumar |
+| Module 01 | Identity | https://aka.ms/AZ-104-MOD1 | https://aka.ms/AZ-104-FCM1 | Neeraj Kumar |
+| Module 02 | Governance and Compliance | https://aka.ms/AZ-104-MOD2 | https://aka.ms/AZ-104-FCM2 | Neeraj Kumar |
+| Module 03 | Azure Administration | https://aka.ms/AZ-104-MOD3 | https://aka.ms/AZ-104-FCM3 | Neeraj Kumar |
+| Module 04 | Virtual Networking | https://aka.ms/AZ-104-MOD4 | https://aka.ms/AZ-104-FCM4 | Neeraj Kumar |
+| Module 05 | Intersite Connectivity | https://aka.ms/AZ-104-MOD5 | https://aka.ms/AZ-104-FCM5 | Neeraj Kumar |
+| Module 06 | Network Traffic Management | https://aka.ms/AZ-104-MOD6 | https://aka.ms/AZ-104-FCM6 | Neeraj Kumar |
+| Module 07 | Azure Storage | https://aka.ms/AZ-104-MOD7 | https://aka.ms/AZ-104-FCM7 | Neeraj Kumar |
+| Module 08 | Azure Virtual Machines | https://aka.ms/AZ-104-MOD8 | https://aka.ms/AZ-104-FCM8 | Neeraj Kumar |
+| Module 09 | App Service | https://aka.ms/AZ-104-MOD9 | https://aka.ms/AZ-104-FCM9 | Neeraj Kumar |
+| Module 10 | Containers / ACA | https://aka.ms/AZ-104-MOD10 | https://aka.ms/AZ-104-FCM10 | Neeraj Kumar |
+| Module 11 | Data Protection | https://aka.ms/AZ-104-MOD11 | https://aka.ms/AZ-104-FCM11 | Neeraj Kumar |
+| Module 12 | Monitoring | https://aka.ms/AZ-104-MOD12 | https://aka.ms/AZ-104-FCM12 | Neeraj Kumar |
+
+
 ### AZ-1002
 | Description | Mindmaps | Author |
 |-------------|----------|--------|
