@@ -74,9 +74,6 @@
 ## Infrastructure 🏢
 
 ### AZ-104
-
-
-### AZ-104
 | Module | Description | Mindmaps | Flashcards | Author |
 |--------|-------------|----------|------------|--------|
 | Module 00 | Syllabus | https://aka.ms/AZ-104-BW  | | Neeraj Kumar |
