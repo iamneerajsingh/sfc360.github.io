@@ -74,14 +74,12 @@
 ## Infrastructure 🏢
 
 ### AZ-104
-| Description | Mindmaps | Author |
-|-------------|----------|--------|
-| Microsoft Azure Administrator (AZ-104) | https://aka.ms/AZ-104-BW | Neeraj Kumar |
+
 
 ### AZ-104
 | Module | Description | Mindmaps | Flashcards | Author |
 |--------|-------------|----------|------------|--------|
-| Module 00 | Syllabus | https://aka.ms/AZ-104-Syllabus | | Neeraj Kumar |
+| Module 00 | Syllabus | https://aka.ms/AZ-104-BW  | | Neeraj Kumar |
 | Module 01 | Identity | https://aka.ms/AZ-104-MOD1 | https://aka.ms/AZ-104-FCM1 | Neeraj Kumar |
 | Module 02 | Governance and Compliance | https://aka.ms/AZ-104-MOD2 | https://aka.ms/AZ-104-FCM2 | Neeraj Kumar |
 | Module 03 | Azure Administration | https://aka.ms/AZ-104-MOD3 | https://aka.ms/AZ-104-FCM3 | Neeraj Kumar |
