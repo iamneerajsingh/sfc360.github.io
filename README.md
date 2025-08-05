@@ -19,11 +19,14 @@ Created with ❤️ by Microsoft Technical Trainers
 ## Neuroscience of learning 👩‍🏫
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
+### Forgetting Curve and Millers law
 https://youtu.be/Iifog2N-DMs
 
+### Mindmaps (Learning how to learn- by Joseph Novak and Bob Gowin)
 https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-copilot-mindmaps-activity-7355512422113140736-aXg3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7358073413795532800?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+### Flashcards (Critical Importance of Retrival for learning by Karpicke & Roediger (2008))
+https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-flashcards-activerecall-activity-7358073415099961346-1lbd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
 
 [Learning_Stratergies_Research_v1.0.pptx](https://github.com/user-attachments/files/18847484/Learning_Stratergies_Research_v1.0.pptx)
 
