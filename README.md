@@ -22,7 +22,7 @@ Anchor research papers and books explaining neuroscience of learning that reinfo
 ### Forgetting Curve and Millers law
 https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
 
-<img width="2378" height="1175" alt="image" src="https://github.com/user-attachments/assets/14045e8f-fd09-44b6-9d97-45b58262be66" />
+<img width="1400" height="1000" alt="image" src="https://github.com/user-attachments/assets/14045e8f-fd09-44b6-9d97-45b58262be66" />
 
 
 ### Mindmaps (Learning how to learn- by Joseph Novak and Bob Gowin)
