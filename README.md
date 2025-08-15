@@ -1,6 +1,5 @@
 
 
-![mAINbRAINWAVE-gIF](https://github.com/user-attachments/assets/f2f91d42-a487-4626-b1b9-6033ddfd94c1)
 ![sfc360 (1)](https://github.com/user-attachments/assets/f56ba8fa-156a-4c5a-a548-7898dc1dfff2)
 
 Created with ❤️ by Microsoft Technical Trainers
