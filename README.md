@@ -27,7 +27,8 @@ https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningm
 
 
 ## [Feedback](https://aka.ms/BrainwaveFeedback) ℹ️
-Do you have suggestions for Mindmaps or Flashcards? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
+Do you have suggestions for our videos? The survey form is open 👉 [here ](https://aka.ms/BrainwaveFeedback)ℹ️.
+Would you like to contribute as a video creator, fill out this form!
 
 ## Core team ❤️
 
